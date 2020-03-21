@@ -1,0 +1,66 @@
+alumni: 
+  - johnW:
+    name:
+      first: "John" 
+      last: "Wilshire"
+    title: "Honours student (2019)"
+    description: "Tracking long-term changes in a floodplain vegetation community"
+    github: "johnWilshire"
+    twitter: "johnhwilshire"
+    linkedin: john-wilshire-5bb3a899
+    googlescholar: "ZbqYAKsAAAAJ"
+    photo: "people/Wilshire.jpg"
+  - emma:
+    name:
+      first: "Emma" 
+      last: "Gray"
+    title: "PhD student (2013-17)"
+    description: "Growth rates and functional traits of tropical rainforest and savanna species"
+    photo: "people/Gray.jpg"
+  - james:
+    name:
+      first: "James"
+      last: "Camac"
+    title: "Postdoctoral Fellow (2013-2016)"
+    description: "Partitioning growth-dependent and growth-independent causes of tree mortality"
+    homepage: "https://jscamacresearch.wordpress.com"
+    twitter: "jscamac"
+    googlescholar: "3ipUAAAAJ"
+    photo: "people/Camac.jpg"
+    github: "jscamac"
+  - anais:
+    name:
+      first: "Anaïs" 
+      last: "Gibert"
+    title: "Postdoc (2013-16)"
+    description: "Meta-analysis testing how traits impact plant growth"
+    researchgate: "Anais_Gibert" 
+    github: "AnaisGibert"
+    twitter: "anais_gibert"
+    orcid: "0000-0001-7672-6033"
+    googlescholar: "Ii4Uwu8AAAAJ"
+    photo: "people/Gibert.jpg"
+  - rich:
+    name:
+      first: "Rich"
+      last: "FitzJohn"
+    title: "Postdoctoral (2013-16)"
+    description: "Completely overhauled our software and workflows."
+    website: "https://richfitz.github.io"
+    github: "richfitz"
+    twitter: "rgfitzjohn"
+    linkedin: "rich-fitzjohn-602a43ba"
+    photo: "people/FitzJohn.jpg"
+  - georges:
+    name:
+      first: "Georges"
+      last: "Kunstler"
+    title: "Visiting researcher (2013-15)"
+    description: "Global analysis- effect of traits on competition"
+    website: "https://kunstler.github.io"
+    github: "kunstler"
+    twitter: "georgeskunstler"
+    googlescholar: "SlIUBF4AAAAJ"
+    researchgate: Georges_Kunstler
+    orcid: "0000-0002-2544-1940"
+    photo: "people/Kunstler.jpg"

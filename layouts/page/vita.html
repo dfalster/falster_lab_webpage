@@ -25,35 +25,38 @@
     </time>
     {{ end }}
     </p>
-    {{ partial "git_sha" . }}
-
-    </br >
+    <h4>Contact</h4>
+  <p> 
+    <i class="fa fa-envelope"></i><a href="javascript:location='mailto:\u0064\u0061\u006E\u0069\u0065\u006C\u002E\u0066\u0061\u006C\u0073\u0074\u0065\u0072\u0040\u0075\u006E\u0073\u0077\u002E\u0065\u0064\u0075\u002E\u0061\u0075';void 0"><script type="text/javascript">document.write('\u0064\u0061\u006E\u0069\u0065\u006C\u002E\u0066\u0061\u006C\u0073\u0074\u0065\u0072\u0040\u0075\u006E\u0073\u0077\u002E\u0065\u0064\u0075\u002E\u0061\u0075')</script></a><br/>
+   <i class="fa fa-twitter"></i><a href="https://twitter.com/adaptive_plant"> adaptive_plant</a> </p>
 
     <h4>Profiles and Metrics</h4>
     <p>
-    <i class="ai ai-impactstory"></i><a href="https://impactstory.org/CarlBoettiger"> ImpactStory </a>
-    <br/>
-		<i class="ai ai-google-scholar"></i><a href="http://scholar.google.com/citations?hl=en&user=zj2rRtEAAAAJ"> Google Scholar </a>
-    <br/>
+		<i class="ai ai-google-scholar"></i><a href="http://scholar.google.com/citations?hl=en&user=QXMISwEAAAAJ"> Google Scholar </a> <br/>
+
     <i class="ai ai-orcid"></i><a property="http://purl.org/spar/datacite/orcid"
-       href="https://orcid.org/0000-0002-1642-628X"> ORCID: 0000-0002-1642-628X</a>
-    </p>
-    <br/>
-    <br/>
-    <p></i><a href="http://www.carlboettiger.info/files/cv.pdf"
+       href="https://orcid.org/0000-0002-9814-092X"> ORCID: 0000-0002-9814-092X</a> <br/>
+    <i class="ai ai-impactstory"></i><a href="https://impactstory.org/u/0000-0002-9814-092X"> ImpactStory </a> <br/>
+
+    <i class="fa fa-github"></i><a href="https://github.com/traitecoevo"> traitecoevo</a>, <a href="https://github.com/dfalster"> dfalster</a> <br/>
+
+    <i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/danielfalster/"> LinkedIn</a> <br/>   
+
+    <a href="Falster_CV.pdf"
        onclick="var that=this;
        _gaq.push(['_trackEvent','Download','PDF',this.href]);
        setTimeout(function(){location.href=that.href;},200);
        return false;" class = "btn btn-primary btn-round"><i class="fa fa-file-text-o fa-1x"></i> Download CV (PDF)</a>
     </p>
+
+    {{ partial "git_sha" . }}
+
   </div>
 
 </div>
 </div>
 </div>
 </div>
-
-<script type="application/ld+json" src = "{{ "/js/vita.json" | relURL }}"></script>
-
+  
 
 {{ end }}

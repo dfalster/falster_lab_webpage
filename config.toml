@@ -1,0 +1,97 @@
+theme = "hugo-material"
+relativeurls = true
+languageCode = "en-us"
+title = "Falster lab UNSW"
+#googleAnalytics = "XXXX"
+disqusShortname = "dfalster"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+publishDir = "public"
+enableGitInfo = true
+paginate = 100
+
+[permalinks]
+    notebook = "/:year-:month-:day-:slug/"
+
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = false  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='material-icons'>home</i>"
+    url = "/index.html"
+    weight = 1
+[[menu.main]]
+    name = "Members"
+    pre = "<i class='material-icons'>people</i>"
+    url = "/members"
+    weight = 2
+[[menu.main]]
+    name = "Join"
+    pre = "<i class='material-icons'>people</i>"
+    url = "/opportunities"
+    weight = 3    
+[[menu.main]]
+    name = "Publications"
+    pre = "<i class='material-icons'>book</i>"
+    url = "/pubs"
+    weight = 3
+[[menu.main]]
+    name = "CV & Bio"
+    pre = "<i class='material-icons'>book</i>"
+    url = "/bio"
+    weight = 4
+[[menu.main]]
+  name = "Notebook"
+  pre = "<i class='material-icons'>assignment</i>"
+  url = "/notebook"
+  weight = 5
+[[menu.main]]
+    name = "Teaching"
+    pre = "<i class='material-icons'>school</i>"
+    url = "/teaching"
+    weight = 6
+
+[[menu.footer]]
+  weight = 1
+  identifier = "UNSW"
+  name = "UNSW Sydney"
+  pre = "<i class=\"material-icons\">pin_drop</i>"
+  url = "https://bees.usnw.edu.au"
+
+[[menu.footer]]
+  weight = 2
+  identifier = "EERC"
+  name = "Evolution & Ecology Research Centre"
+  pre = "<i class=\"material-icons\">pin_drop</i>"
+  url = "https://eerc.usnw.edu.au"
+
+    
+
+[params]
+    background = "/img/background_banksia.jpg"
+    custom_css = ["dfalster.css"]
+#    custom_js = ["example.js"]
+    name =  "Daniel Falster"
+    twitter =  "adaptive_plant"
+    github =  "dfalster"
+#    keybase = "dfalster"
+    email =  "daniel.falster@unsw.edu.au"
+    repo = "labnotebook"
+    branch = "master"
+    math = true
+
+    date_format = "Jan 2, 2006"
+    description = "A website built through Hugo and blogdown, using [material](https://themes.gohugo.io/hugo-material-blog/)"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsTheme = "tomorrow-night"
+
+#    [params.logo]
+#   url = "logo.png"
+#   width = 50
+#  height = 50
+#  alt = "Logo"
+
+    
