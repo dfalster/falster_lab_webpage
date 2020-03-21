@@ -1,0 +1,16 @@
+.main {
+  background-image: url(../img/grid-18px-masked.png);
+  background-repeat: repeat-x;
+}
+
+/* Definition lists (homepage)
+------------------------------------------- */
+.dl-horizontal dt{
+  text-align: left;
+  width: auto;
+  padding-right: 1em;
+}
+
+.dl-horizontal dd{
+  margin-left: 100px;
+}
