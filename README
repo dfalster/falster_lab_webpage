@@ -33,7 +33,7 @@ hugo server -D
 ```
 
 ```
-{{< figure src="http://danielfalster.com/images/2016.06.27-useR/useR-600x300.png" height=100 width=100 >}}
+{{< figure src="http://danielfalster.com/images/2016.06.27-useR/useR-600x300.png" height="100" width="100" >}}
 ```
 
 I wrote the following to
