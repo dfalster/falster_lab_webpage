@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.sass-cache
+*.synctex.gz
+*.log
+public/
