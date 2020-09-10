@@ -9,7 +9,7 @@ nomath: true
 <!-- About me..... -->
 
 
-## Education 
+## Education
 
 - PhD, Macquarie University Australia (2010)
 - MSc, Macquarie University Australia (2003)
@@ -21,7 +21,7 @@ nomath: true
 
 **Citations**: > 9900 total citations, > 700 citations yr$^{-1}$, H-index of 31 [Google Scholar].
 
-**Datasets**: Leading new compilation "[AusTraits](http://traitecoevo.github.io/austraits.build/): curated plant trait database for the Australian flora"; previously produced global compilations: [Biomass and Allometry Database](https://github.com/dfalster/baad), the [Coral Traits Database](coraltraits.org). 
+**Datasets**: Leading new compilation "[AusTraits](http://traitecoevo.github.io/austraits.build/): curated plant trait database for the Australian flora"; previously produced global compilations: [Biomass and Allometry Database](https://github.com/dfalster/baad), the [Coral Traits Database](coraltraits.org).
 
 **Software**: I have produced and made publicly available important software packages used in over 900 publications, including the statistical [SMATR]() and the growth model, [plant]().
 
@@ -41,17 +41,16 @@ nomath: true
 
 ## Awards (2015-)
 
-2019 **Fenner Medal** Australian Academy of Sciences 
+2019 **Fenner Medal** Australian Academy of Sciences
 
-2015 **Next Generation Ecologist** Ecological Society of Australia 
+2015 **Next Generation Ecologist** Ecological Society of Australia
 
 ## Grants (2015-)
 
-2019-2021 ARC Discovery, AUD 779,000; CI (5%), **A global standard for the status of Wetlands of International Importance** (LP180100159) 
+2020-2022 ARC Discovery, AUD 483,977; CI, **Escalating the arms race: Understanding when and how trees get really tall**  (DP200100555)
 
-2019 Australian Research Data commons, AUD 50k; CI, **AusTraits: a curated plant trait database for the Australian flora** 
+2019 Australian Research Data commons, AUD 50k; CI, **AusTraits: a curated plant trait database for the Australian flora**
 
-2019-2021 ARC Linkage, AUD 779,000; CI (5%), **A global standard for the status of Wetlands of International Importance** (LP180100159) 
+2019-2021 ARC Linkage, AUD 779,000; CI (5%), **A global standard for the status of Wetlands of International Importance** (LP180100159)
 
-2017-2022 ARC Future Fellow, AUD 802,332; CI (100%), **Niche 2.0 - Australian and global plant diversity from first principles** 
-
+2017-2022 ARC Future Fellow, AUD 802,332; CI (100%), **Niche 2.0 - Australian and global plant diversity from first principles**

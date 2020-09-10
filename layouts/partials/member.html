@@ -5,11 +5,10 @@
 <img property="foaf:depiction" width="175" height="175" src="{{ "/img/" | relURL }}{{.photo}}" alt="Photo of {{.name.first}}" class="img-raised rounded-circle img-fluid"/>
 </div>
 <h4 class="card-title">
-<a property="foaf:homepage schema:url"
-  href="{{.homepage}}"><span
+<span
   property="foaf:name"><span
   property="foaf:givenName">{{.name.first}}</span> <span
-  property="foaf:familyName">{{.name.last}}</span></span></a>
+  property="foaf:familyName">{{.name.last}}</span></span>
 <br/>
 <small class="card-description text-muted" property="schema:jobTitle">{{.title}}</small>
 </h4>
