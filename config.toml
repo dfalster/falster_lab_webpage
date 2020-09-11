@@ -83,7 +83,7 @@ paginate = 100
     github =  "dfalster"
 #    keybase = "dfalster"
     email =  "daniel.falster@unsw.edu.au"
-    repo = "labnotebook"
+    repo = "falster_lab_webpage"
     branch = "master"
     math = true
 
