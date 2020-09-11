@@ -1,7 +1,7 @@
 alumni: 
   - johnW:
     name:
-      first: "John" 
+      first: "John"
       last: "Wilshire"
     title: "Honours student (2019)"
     description: "Tracking long-term changes in a floodplain vegetation community"
@@ -12,7 +12,7 @@ alumni:
     photo: "people/Wilshire.jpg"
   - emma:
     name:
-      first: "Emma" 
+      first: "Emma"
       last: "Gray"
     title: "PhD student (2013-17)"
     description: "Growth rates and functional traits of tropical rainforest and savanna species"
@@ -30,11 +30,11 @@ alumni:
     github: "jscamac"
   - anais:
     name:
-      first: "Anaïs" 
+      first: "Anaïs"
       last: "Gibert"
     title: "Postdoc (2013-16)"
     description: "Meta-analysis testing how traits impact plant growth"
-    researchgate: "Anais_Gibert" 
+    researchgate: "Anais_Gibert"
     github: "AnaisGibert"
     twitter: "anais_gibert"
     orcid: "0000-0001-7672-6033"

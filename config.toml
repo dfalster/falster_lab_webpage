@@ -29,29 +29,34 @@ paginate = 100
     weight = 2
 [[menu.main]]
     name = "Join"
-    pre = "<i class='material-icons'>people</i>"
+    pre = "<i class='material-icons'>group_add</i>"
     url = "/opportunities"
-    weight = 3    
-[[menu.main]]
-    name = "Publications"
-    pre = "<i class='material-icons'>book</i>"
-    url = "/pubs"
     weight = 3
 [[menu.main]]
-    name = "CV & Bio"
+    name = "CornSters & Friends"
+    pre = "<i class='material-icons'>mood</i>"
+    url = "/cornsters"
+    weight = 4
+[[menu.main]]
+    name = "Bio & CV"
     pre = "<i class='material-icons'>book</i>"
     url = "/bio"
-    weight = 4
+    weight = 5
+[[menu.main]]
+    name = "Publications"
+    pre = "<i class='material-icons'>library_books</i>"
+    url = "/pubs"
+    weight = 6
 [[menu.main]]
   name = "Notebook"
   pre = "<i class='material-icons'>assignment</i>"
   url = "/notebook"
-  weight = 5
+  weight = 7
 [[menu.main]]
     name = "Teaching"
     pre = "<i class='material-icons'>school</i>"
     url = "/teaching"
-    weight = 6
+    weight = 8
 
 [[menu.footer]]
   weight = 1
@@ -67,7 +72,7 @@ paginate = 100
   pre = "<i class=\"material-icons\">pin_drop</i>"
   url = "https://eerc.usnw.edu.au"
 
-    
+
 
 [params]
     background = "/img/background_banksia.jpg"
@@ -78,7 +83,7 @@ paginate = 100
     github =  "dfalster"
 #    keybase = "dfalster"
     email =  "daniel.falster@unsw.edu.au"
-    repo = "labnotebook"
+    repo = "falster_lab_webpage"
     branch = "master"
     math = true
 
@@ -93,5 +98,3 @@ paginate = 100
 #   width = 50
 #  height = 50
 #  alt = "Logo"
-
-    
