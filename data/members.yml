@@ -1,10 +1,10 @@
-members: 
+members:
   - dfalster:
     name:
-      first: "Daniel" 
+      first: "Dr Daniel"
       last: "Falster"
-    title: "ARC Future Fellow"
-    description: "Lab leader. How does competition shape the ecology, population dynamics, and traits of species and communities?"
+    title: "ARC Future Fellow - Lab Leader"
+    description: "How does competition shape the ecology, population dynamics, and traits of species and communities?"
     github: "dfalster"
     twitter: "adaptive_plant"
     orcid: "0000-0002-9814-092X"
@@ -12,9 +12,78 @@ members:
     linkedin: "danielfalster"
     googlescholar: "QXMISwEAAAAJ"
     photo: "people/Falster.jpg"
+
+  - fonti:
+    name:
+      first: "Fonti"
+      last: "Kar"
+    title: "Postdoctoral Fellow (starting 2020)"
+    description: "Quantitative modelling and software development"
+    wesbite: "https://fontikar.wordpress.com/"
+    github: "fontikar"
+    twitter: "fonti_kar"
+    linkedin: "fonti-kar"
+    photo: "people/Kar.jpg"
+
+  - dony:
+    name:
+      first: "Dony"
+      last: "Indiarto"
+    title: "PhD Candidate"
+    description: "Plant functional traits and species range shifts"
+    github: "dindiarto"
+    twitter: "indiartd"
+    linkedin: "dindiarto"
+    photo: "people/Indiarto.jpg"
+  - charlie:
+    name:
+      first: "Charlie"
+      last: "Hinchliffe"
+    title: "PhD Candidate"
+    description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
+    github: "charliehinchliffe"
+    googlescholar: "FP-5KsgAAAAJ"
+    photo: "people/Hinchliffe.jpg"
+  - pietro:
+    name:
+      first: "Pietro"
+      last: "Pollo"
+    title: "PhD Candidate (lead supervisor: Mike Kasumovic)"
+    description: "Studying sexual conflict"
+    researchgate: Pietro_Pollo
+    twitter: "pietro_pollo"
+    orcid: "0000-0001-6555-5400"
+    googlescholar: "pSflDdEAAAAJ"
+    photo: "people/Pollo.jpg"
+
+  - theresa:
+    name:
+      first: "Theresa"
+      last: "O'Brien"
+    title: "MSc Candidate (starting 2020)"
+    description: "Tropical tree life histories"
+    researchgate:
+    twitter: ""
+    orcid: ""
+    googlescholar: ""
+    photo: "people/O'Brien.jpg"
+
+  - rebecca:
+    name:
+      first: "Rebecca"
+      last: "Stolper"
+    title: "MPhil Candidate (starting 2020)"
+    description: "Tree growth & mortality"
+    researchgate:
+    twitter: ""
+    orcid: ""
+    googlescholar: ""
+    photo: "people/Stolper.jpg"
+
+
   - lizzy:
     name:
-      first: "Elizabeth"
+      first: "Dr Elizabeth"
       last: "Wenk"
     title: "Research Assistant"
     description: "Compiling AusTraits - a data compilation on traits of Australian plants. Writes hiking guides."
@@ -30,56 +99,6 @@ members:
     github: "rafaqz"
     researchgate: Rafael_Schouten
     photo: "people/Schouten.jpg"
-  - saras:
-    name:
-      first: "Saras"
-      last: "Windecker"
-    title: "Postdoctoral Fellow (starting 2020)"
-    description: "Quantitative modeling and software development with a special focus on reproducible research"
-    website: "smwindecker.com"
-    github: "smwindecker"
-    twitter: "smwindecker"
-    orcid: "0000-0002-4870-8353"
-    cv: "https://www.smwindecker.com/files/cv.pdf" 
-    photo: "people/Windecker.jpg"
-  - caitlin:
-    name:
-      first: "Caitlin"
-      last: "Baxter"
-    title: "Research Assistant"
-    description: "Compiling AusTraits - a data compilation on traits of Australian plants."
-    wesbite: "https://www.amazon.com/Elizabeth-Wenk/e/B004R0TMBC"
-    github: "CaitlinB"
-    photo: "people/Baxter.jpg"
-  - dony:
-    name:
-      first: "Dony"
-      last: "Indiarto"
-    title: "PhD Student"
-    description: "Plant functional traits and species range shifts"
-    github: "dindiarto."
-    twitter: "@indiartd"
-    linkedin: "https://www.linkedin.com/in/dindiarto"
-    photo: "people/Indiarto.jpg"
-  - charlie:
-    name:
-      first: "Charlie"
-      last: "Hinchliffe"
-    title: "PhD Student"
-    description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
-    github: "charliehinchliffe"
-    googlescholar: "FP-5KsgAAAAJ&hl=en" 
-    photo: "people/Hinchliffe.jpg"
-  - baptiste:
-    name:
-      first: "Baptiste"
-      last: "Wijas"
-    title: "Collaborating PhD Student"
-    description: "Modelling how top predators impact vegetation and nutrient dynamics in the ecosystem"
-    github: "BaptisteWij"
-    twitter: "BapsWijas"
-    orcid: "0000-0001-7895-083X"
-    photo: "people/Wijas.jpg"
   - simon:
     name:
       first: "Simon"
@@ -89,9 +108,21 @@ members:
     github: "SGorta"
     twitter: "GortaBirds"
     orcid: "0000-0002-7753-556X"
-    googlescholar: "1MWcRiMAAAAJ" 
+    googlescholar: "1MWcRiMAAAAJ"
     linkedin: "simon-gorta-b8393a116"
     photo: "people/Gorta.jpg"
+  - gary:
+    name:
+      first: "Gary"
+      last: "Truong"
+    title: "Project Officer"
+    description: ""
+    github: "GaryTruong"
+    twitter: "GaryTruong16"
+    orcid: ""
+    googlescholar: "LjKRJBkAAAAJ"
+    linkedin: "gary-truong-40b916101"
+    photo: "people/Truong.jpg"
   - ashleigh:
     name:
       first: "Ashleigh"
@@ -101,15 +132,27 @@ members:
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
-  - pietro:
-    name:
-      first: "Pietro"
-      last: "Pollo"
-    title: "PhD Student"
-    description: "Studying sexual conflict"
-    researchgate: Pietro_Pollo
-    twitter: "pietro_pollo"
-    orcid: "0000-0001-6555-5400"
-    googlescholar: "pSflDdEAAAAJ" 
-    photo: "people/Pollo.jpg"
 
+
+  - saras:
+    name:
+      first: "Dr Saras"
+      last: "Windecker"
+    title: "Collaborating Postdoctoral Fellow"
+    description: "Trait-based species distributions"
+    website: "smwindecker.com"
+    github: "smwindecker"
+    twitter: "smwindecker"
+    orcid: "0000-0002-4870-8353"
+    cv: "https://www.smwindecker.com/files/cv.pdf"
+    photo: "people/Windecker.jpg"
+  - baptiste:
+    name:
+      first: "Baptiste"
+      last: "Wijas"
+    title: "Collaborating PhD Candidate"
+    description: "Modelling how top predators impact vegetation and nutrient dynamics in the ecosystem"
+    github: "BaptisteWij"
+    twitter: "BapsWijas"
+    orcid: "0000-0001-7895-083X"
+    photo: "people/Wijas.jpg"

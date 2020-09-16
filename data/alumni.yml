@@ -1,4 +1,12 @@
-alumni: 
+alumni:
+  - caitlin:
+    name:
+      first: "Caitlin"
+      last: "Baxter"
+    title: "Research Assistant (2019-20)"
+    description: "Compiling AusTraits - a data compilation on traits of Australian plants."
+    github: "CaitlinB"
+    photo: "people/Baxter.jpg"
   - johnW:
     name:
       first: "John"
@@ -12,16 +20,16 @@ alumni:
     photo: "people/Wilshire.jpg"
   - emma:
     name:
-      first: "Emma"
+      first: "Dr Emma"
       last: "Gray"
-    title: "PhD student (2013-17)"
+    title: "PhD Candidate (2013-17)"
     description: "Growth rates and functional traits of tropical rainforest and savanna species"
     photo: "people/Gray.jpg"
   - james:
     name:
-      first: "James"
+      first: "Dr James"
       last: "Camac"
-    title: "Postdoctoral Fellow (2013-2016)"
+    title: "Postdoctoral Fellow (2013-16)"
     description: "Partitioning growth-dependent and growth-independent causes of tree mortality"
     homepage: "https://jscamacresearch.wordpress.com"
     twitter: "jscamac"
@@ -30,9 +38,9 @@ alumni:
     github: "jscamac"
   - anais:
     name:
-      first: "Anaïs"
+      first: "Dr Anaïs"
       last: "Gibert"
-    title: "Postdoc (2013-16)"
+    title: "Postdoctoral Fellow (2013-16)"
     description: "Meta-analysis testing how traits impact plant growth"
     researchgate: "Anais_Gibert"
     github: "AnaisGibert"
@@ -42,9 +50,9 @@ alumni:
     photo: "people/Gibert.jpg"
   - rich:
     name:
-      first: "Rich"
+      first: "Dr Rich"
       last: "FitzJohn"
-    title: "Postdoctoral (2013-16)"
+    title: "Postdoctoral Fellow (2013-16)"
     description: "Completely overhauled our software and workflows."
     website: "https://richfitz.github.io"
     github: "richfitz"
@@ -53,9 +61,9 @@ alumni:
     photo: "people/FitzJohn.jpg"
   - georges:
     name:
-      first: "Georges"
+      first: "Dr Georges"
       last: "Kunstler"
-    title: "Visiting researcher (2013-15)"
+    title: "Visiting Researcher (2013-15)"
     description: "Global analysis- effect of traits on competition"
     website: "https://kunstler.github.io"
     github: "kunstler"
