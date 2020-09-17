@@ -11,6 +11,7 @@ members:
     impactstory: "0000-0002-9814-092X"
     linkedin: "danielfalster"
     googlescholar: "QXMISwEAAAAJ"
+    researchgate: Daniel_Falster
     photo: "people/Falster.jpg"
 
   - fonti:
@@ -20,9 +21,11 @@ members:
     title: "Postdoctoral Fellow (starting 2020)"
     description: "Quantitative modelling and software development"
     wesbite: "https://fontikar.wordpress.com/"
-    github: "fontikar"
-    twitter: "fonti_kar"
+    github: fontikar
+    twitter: fonti_kar
     linkedin: "fonti-kar"
+    googlescholar: 4hGqp6sAAAAJ
+    researchgate: Fonti_Kar
     photo: "people/Kar.jpg"
 
   - dony:
@@ -53,9 +56,22 @@ members:
     researchgate: Pietro_Pollo
     twitter: "pietro_pollo"
     orcid: "0000-0001-6555-5400"
+    linkedin: pietro-pollo
     googlescholar: "pSflDdEAAAAJ"
     photo: "people/Pollo.jpg"
 
+  - rebecca:
+    name:
+      first: "Rebecca"
+      last: "Stolper"
+    title: "MPhil Candidate (starting 2020)"
+    description: "Tree growth & mortality"
+    researchgate: Rebecca_Stolper
+    twitter: ""
+    orcid: ""
+    linkedin: "rebecca-stolper-718b90a7"
+    googlescholar: ""
+    photo: "people/Stolper.jpg"
   - theresa:
     name:
       first: "Theresa"
@@ -67,19 +83,6 @@ members:
     orcid: ""
     googlescholar: ""
     photo: "people/O'Brien.jpg"
-
-  - rebecca:
-    name:
-      first: "Rebecca"
-      last: "Stolper"
-    title: "MPhil Candidate (starting 2020)"
-    description: "Tree growth & mortality"
-    researchgate:
-    twitter: ""
-    orcid: ""
-    googlescholar: ""
-    photo: "people/Stolper.jpg"
-
 
   - lizzy:
     name:
@@ -116,12 +119,13 @@ members:
       first: "Gary"
       last: "Truong"
     title: "Project Officer"
-    description: ""
+    description: "R coding and data handling"
     github: "GaryTruong"
     twitter: "GaryTruong16"
-    orcid: ""
+    orcid: "0000-0001-5308-8745"
     googlescholar: "LjKRJBkAAAAJ"
     linkedin: "gary-truong-40b916101"
+    researchgate: Gary_Truong
     photo: "people/Truong.jpg"
   - ashleigh:
     name:
