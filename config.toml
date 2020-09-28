@@ -33,6 +33,11 @@ paginate = 100
     url = "/opportunities"
     weight = 3
 [[menu.main]]
+    name =  "Research"
+    pre = "<i class='material-icons'>work</i>"
+    url = "/research"
+    weight = 5
+[[menu.main]]
     name = "CornSters & Friends"
     pre = "<i class='material-icons'>mood</i>"
     url = "/cornsters"
@@ -41,22 +46,22 @@ paginate = 100
     name = "Bio & CV"
     pre = "<i class='material-icons'>book</i>"
     url = "/bio"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Publications"
     pre = "<i class='material-icons'>library_books</i>"
     url = "/pubs"
-    weight = 6
+    weight = 7
 [[menu.main]]
   name = "Notebook"
   pre = "<i class='material-icons'>assignment</i>"
   url = "/notebook"
-  weight = 7
+  weight = 8
 [[menu.main]]
     name = "Teaching"
     pre = "<i class='material-icons'>school</i>"
     url = "/teaching"
-    weight = 8
+    weight = 9
 
 [[menu.footer]]
   weight = 1
