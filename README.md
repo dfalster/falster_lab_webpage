@@ -6,7 +6,7 @@ The site layout was adapted from [Carl Boettiger's lab notebook](https://github.
 
 ## Building site 
 
-Following are my notes on site upkeep.
+Following are my notes on site upkeep
 
 Download & install Hugo from https://github.com/gohugoio/hugo/releases. NB, you don't need `Go` to run `Hugo.`
 
