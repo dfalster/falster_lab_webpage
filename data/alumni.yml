@@ -72,3 +72,21 @@ alumni:
     researchgate: Georges_Kunstler
     orcid: "0000-0002-2544-1940"
     photo: "people/Kunstler.jpg"
+  - Diego:
+    name:
+      first: "Dr Deigo"
+      last: "Barneche"
+    title: "Researcher assistant (2013-14)"
+    description: "Biomass and allometry database"
+    website: "https://www.diegobarneche.com"
+    github: "dbarneche"
+    twitter: "georgeskunstler"
+    googlescholar: "V1-2VSUAAAAJ"
+    photo: "people/Barneche.jpg"
+  - Angelica:
+    name:
+      first: "Dr Angelica"
+      last: "Vårhammer"
+    title: "Researcher assistant (2013-14)"
+    description: "Biomass and allometry database"
+    photo: "icon.png"

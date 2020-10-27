@@ -5,9 +5,9 @@ title: Daniel Falster - Bio & CV
 nomath: true
 ---
 
+{{< figure src="/img/mtfield.jpg">}}
 
-<!-- About me..... -->
-
+I grew up in beautiful Sydney, surrounded by tall trees, and otherwise on camping trips, hikes, or on my grandfathers farm. At school I developed a passion for maths. My current research and teaching combines three great passions: biology, maths, and coding. While I still live in Sydney, I've spent time living abroad in Norway and Austria, and also visiting researchers in France, Panama and the USA.
 
 ## Education
 
@@ -17,15 +17,15 @@ nomath: true
 
 ## Summary of research outputs
 
-**Articles**: 53 articles in leading international journals such as *Nature*, *PNAS*, *Trends in Ecology \& Evolution*, *Biological Reviews*, *New Phytologist*, *Methods in Ecology \& Evolution*, *Journal of Ecology*.
+**Articles**: > 50 articles in leading international journals such as *Nature*, *PNAS*, *Trends in Ecology \& Evolution*, *Biological Reviews*, *New Phytologist*, *Methods in Ecology \& Evolution*, *Journal of Ecology*.
 
-**Citations**: > 9900 total citations, > 700 citations yr$^{-1}$, H-index of 31 [Google Scholar].
+**Citations**: > 1000 total citations, > 700 citations yr$^{-1}$, H-index of 32 [Google Scholar].
 
 **Datasets**: Leading new compilation "[AusTraits](http://traitecoevo.github.io/austraits.build/): curated plant trait database for the Australian flora"; previously produced global compilations: [Biomass and Allometry Database](https://github.com/dfalster/baad), the [Coral Traits Database](coraltraits.org).
 
-**Software**: I have produced and made publicly available important software packages used in over 900 publications, including the statistical [SMATR]() and the growth model, [plant]().
+**Software**: I have produced and made publicly available important software packages used in over 900 publications, including the statistical [SMATR](https://cran.r-project.org/web/packages/smatr/index.html) and the growth model, [plant](https://traitecoevo.github.io/plant/).
 
-**Reproducible science**: I am making my publications entirely reproducible (see [pubs](../pubs/)), enabling others to reproduce, adapt, apply and extend my results.
+**Reproducible science**: I am making my publications entirely reproducible, enabling others to reproduce, adapt, apply and extend my results.
 
 # Research highlights
 
@@ -41,9 +41,9 @@ nomath: true
 
 ## Awards (2015-)
 
-2019 **Fenner Medal** Australian Academy of Sciences
+2019 **Fenner Medal** Australian Academy of Sciences, [link](https://www.science.org.au/opportunities-scientists/recognition/honorific-awards/honorific-awardees/2019-awardees#fenner)
 
-2015 **Next Generation Ecologist** Ecological Society of Australia
+2015 **Next Generation Ecologist**, Ecological Society of Australia, [link](https://www.ecolsoc.org.au/news/2015-wiley-next-generation-ecologist-announced/)
 
 ## Grants (2015-)
 
@@ -54,3 +54,5 @@ nomath: true
 2019-2021 ARC Linkage, AUD 779,000; CI (5%), **A global standard for the status of Wetlands of International Importance** (LP180100159)
 
 2017-2022 ARC Future Fellow, AUD 802,332; CI (100%), **Niche 2.0 - Australian and global plant diversity from first principles**
+
+{{< figure src="/img/fenner.jpg" >}}
