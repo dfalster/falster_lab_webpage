@@ -38,5 +38,6 @@ I am interested in supervising students seeking to strengthen their quantitative
 
 ## Why join the lab {#why}
 
+You will do cutting edge research on fascinating and fundamental biological problems, while also refining your skills in data analysis, coding, writing & presentation. You'll also make great contacts and get inspired by the vibrant community within the [Evolution and Ecology research Centre](http://eerc.unsw.edu.au) and UNSW [School of Biological, Earth & Environmental Sciences](https://bees.unsw.edu.au). 
 
-## Expectations of you {#expectations}
+Past members say that working in the Falster lab both challenged and inspired them.
