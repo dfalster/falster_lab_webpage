@@ -7,9 +7,9 @@ tags: [frustrations]
 aliases: [/blog/2013/06/18/a-nice-title-page-for-beamer-presentations/]
 ---
 
-I use [beamer](http://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) for making slide
+I use [beamer](https://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) for making slide
 presentations, a scripted system based on the
-[latex](http://en.wikipedia.org/wiki/LaTeX) markup language. Overall, I really like it.
+[latex](https://en.wikipedia.org/wiki/LaTeX) markup language. Overall, I really like it.
 But a persistent problem for me has been getting a pretty title page for my talks. Recently I
 managed to solve this. <!-- more -->
 
@@ -55,26 +55,26 @@ response.
 
 A bit more  searching yielded some answers.
 
-- [This talk by Vesa Linja-aho](http://www.slideshare.net/linjaaho/how-to-make-
+- [This talk by Vesa Linja-aho](https://www.slideshare.net/linjaaho/how-to-make-
   boxed-text-with-latex) outlines several options for making framed text boxes. This
   alerted me to the framed and
   [mdframed](https://github.com/marcodaniel/mdframed) packages.
-- [Here's a solution using tikz](http://tex.stackexchange.com/questions/53784/overlay-images-and-block-in-beamer), although was a bit more complicated than
+- [Here's a solution using tikz](https://tex.stackexchange.com/questions/53784/overlay-images-and-block-in-beamer), although was a bit more complicated than
   I would like.
 - You can also customise the block environment, as explained
-  [here](http://tex.stackexchange.com/questions/28760/custom-beamer-blocks) and
-  [here](http://tex.stackexchange.com/questions/55596/how-to-make-partially-transparent-beamercolorbox)
+  [here](https://tex.stackexchange.com/questions/28760/custom-beamer-blocks) and
+  [here](https://tex.stackexchange.com/questions/55596/how-to-make-partially-transparent-beamercolorbox)
   , including with a
-  [semi-transparent or transparent background](http://tex.stackexchange.com/questions/18447/how-to-make-a-block-transparent-for-a-background-image).
+  [semi-transparent or transparent background](https://tex.stackexchange.com/questions/18447/how-to-make-a-block-transparent-for-a-background-image).
 
 In the end, my preferred option was to use the
 [mdframed](https://github.com/marcodaniel/mdframed) package, as the code is
 relatively concise and the package comes pre-packaged with my latex
 installation. The
-[user guide for mdframed](http://cloud.github.com/downloads/marcodaniel/mdframed/mdframed.pdf)
+[user guide for mdframed](https://cloud.github.com/downloads/marcodaniel/mdframed/mdframed.pdf)
 is quite good, but did not explain how to make the box transparent. That trick
 is achieved using the tikz settings, as explained
-[here](http://tex.stackexchange.com/questions/38281/transparent-background-for-mdframed-environment/38298#38298)
+[here](https://tex.stackexchange.com/questions/38281/transparent-background-for-mdframed-environment/38298#38298)
 on stackexchange.
 
 The eventual code is quite simple. Of course you need to include the mdframed package:
@@ -138,7 +138,7 @@ or
 In addition to a text box, I also want handles to my twitter, web and email
 accounts on the title page. As Hilary Mason, chief research scientist at bitly,
 explains
-[it is helpful to include your twitter handle](http://www.hilarymason.com/speaking/speaking-title-slides-twitter-you-win/)
+[it is helpful to include your twitter handle](https://www.hilarymason.com/speaking/speaking-title-slides-twitter-you-win/)
 so that
 
 1. People can post you questions they didn't get to ask during the talk
@@ -147,18 +147,18 @@ so that
 It turns out that it is incredibly easy to make a web link in latex :
 
 ```
-\href{http://twitter.com/adaptive_plant}{@adaptive\_plant}
+\href{https://twitter.com/adaptive_plant}{@adaptive\_plant}
 ```
 
 It's also relatively easy to add pretty icons, using
-[FontAwesome](http://fortawesome.github.io/Font-Awesome/). On a mac, you can get
+[FontAwesome](https://fortawesome.github.io/Font-Awesome/). On a mac, you can get
 fontawesome working by following [these
 instructions](https://coderwall.com/p/r67dyq). There's a couple of restrictions.
 
 1. FontAwsome must be be installed in the system fontbook
 2. You need to include the fontspec package, and use xelatek to compile your talk.
 
-A cheatsheet of symbols available [here](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
+A cheatsheet of symbols available [here](https://fortawesome.github.io/Font-Awesome/cheatsheet/)
 
 # Tweaking the location
 
@@ -182,7 +182,7 @@ Thanks to Rich FitzJohn for valuable discussions, showing me how to generate
 make files, and reassuring me that there was no easy way to overlay text boxes
 (that he knew of). Also, thanks to all the coders who posted at links listed in
 this page, including of course developers of
-[Latex](http://en.wikipedia.org/wiki/LaTeX) and
-[Beamer](http://en.wikipedia.org/wiki/Beamer_%28LaTeX%29), which despite their
+[Latex](https://en.wikipedia.org/wiki/LaTeX) and
+[Beamer](https://en.wikipedia.org/wiki/Beamer_%28LaTeX%29), which despite their
 troublesome nature, still remain best option (IMO) for making presentations.
 

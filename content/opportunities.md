@@ -14,7 +14,7 @@ We are a vibrant lab with a focus on applying the latest computational methods t
 - Size-structured population dynamics, including in vegetation and other systems; in particular understanding how competition for resources shapes species traits,
 - Estimating and modelling the potential for carbon sequestration in vegetation, particularly under future climates.
 
-Below are details on opportunities for [open positions](#open), potentials for [PhD or Msc](#HDR) and [honours](#honours) projects. Past opportunities are listed [here](http://localhost:1313/categories/opportunities/).
+Below are details on opportunities for [open positions](#open), potentials for [PhD or Msc](#HDR) and [honours](#honours) projects. Past opportunities are listed [here](/categories/opportunities/).
 
 ## Open positions {#open}
 

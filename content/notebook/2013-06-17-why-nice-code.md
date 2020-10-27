@@ -7,7 +7,7 @@ author: Daniel Falster
 aliases: [/blog/2013/06/17/why-nice-code/]
 ---
 
-I originally posted this article on the [niceRcode blog](http://nicercode.github.io/blog/2013-04-05-why-nice-code/).
+I originally posted this article on the [niceRcode blog](https://nicercode.github.io/blog/2013-04-05-why-nice-code/).
 
 Writing code is fast becoming a key - if not the most important - skill for
 doing research in the 21st century. As scientists, we live in extraordinary
@@ -22,12 +22,12 @@ our analyses to match data availability, at least not without many, many more
 'clicks'.
  
 
-{{< figure src="http://nicercode.github.io/images/2013-04-05-why-nice-code/geeks-vs-nongeeks-repetitive-tasks.png" title="Why writing code saves you time with repetitive tasks, by Bruno Oliveira">}}
+{{< figure src="https://nicercode.github.io/images/2013-04-05-why-nice-code/geeks-vs-nongeeks-repetitive-tasks.png" title="Why writing code saves you time with repetitive tasks, by Bruno Oliveira">}}
 
 
 The solution is to write scripts in programs like
-[R](http://www.r-project.org/), [python](http://www.python.org/) or
-[matlab](http://www.mathworks.com.au/products/matlab/). Scripting allows you to
+[R](https://www.r-project.org/), [python](https://www.python.org/) or
+[matlab](https://www.mathworks.com.au/products/matlab/). Scripting allows you to
 automate analyses, and therefore scale-up without a big increase in
 effort.
 
@@ -41,7 +41,7 @@ world. For all these reasons, many researchers are now learning how to write
 code.
 
 Yet, most researchers have no or limited formal training in computer science,
-and thus struggle to write nice code ([Merali 2010](http://dx.doi.org/10.1038/467775a)). Most of us are self-taught, having used a
+and thus struggle to write nice code ([Merali 2010](https://dx.doi.org/10.1038/467775a)). Most of us are self-taught, having used a
 mix of books, advice from other amateur coders, internet posts, and lots of
 trial and error. Soon after have we written our first R script, our hard drives
 explode with large bodies of barely readable code that we only half understand,
@@ -61,9 +61,9 @@ department.
 
 
 Observing how colleagues were struggling with their code, we
-([Rich FitzJohn](http://www.zoology.ubc.ca/~fitzjohn/) and
-[Daniel Falster](http://www.falsters.net/daniel)) have teamed up to bring you
-the [nice R code](http://nicercode.github.io/) course and blog. We are
+([Rich FitzJohn](https://www.zoology.ubc.ca/~fitzjohn/) and
+[Daniel Falster](https://www.falsters.net/daniel)) have teamed up to bring you
+the [nice R code](https://nicercode.github.io/) course and blog. We are
 targeting researchers who are already using R and want to take their coding to
 the next level. Our goal is to help you write nicer code.
 
@@ -76,7 +76,7 @@ will be focussing on elements of workflow, good coding habits and some tricks,
 that will help transform your code from messy to nice.
 
 The inspiration for nice R code came in part from attending a boot camp run by
-Greg Wilson from the [software carpentry team](http://software-carpentry.org/).
+Greg Wilson from the [software carpentry team](https://software-carpentry.org/).
 These boot camps aim to help researchers be more productive by teaching them
 basic computing skills. Unlike other software courses we had attended, the
 focus in the boot camps was on good programming habits and design. As
@@ -120,7 +120,7 @@ to capture the intent of your code, i.e. describe what it is *meant* to do
 that it archives older versions of your code, permitting you to ruthlessly
 yet safely delete old files. This helps reduce clutter and improves readability.
 - Apply a consistent style, such as that described in  the [google R style
-guide](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html).
+guide](https://google-styleguide.googlecode.com/svn/trunk/google-r-style.html).
 
 
 ### Nice code is reliable, i.e. bug free
@@ -132,7 +132,7 @@ are you that your code is error free? More than once I have reached a state
 of near panic, looking over my code to ensure it is bug free before
 submitting a final version of a paper for publication. What if I got it wrong?
 
-[It is almost impossible to ensure code is bug free](http://dx.doi.org/10.1109/MCSE.2005.54), but one can adopt healthy
+[It is almost impossible to ensure code is bug free](https://dx.doi.org/10.1109/MCSE.2005.54), but one can adopt healthy
 habits that minimise the chance of this occurring:
 
 - Don't repeat yourself. The less you type, the fewer chances there are for
@@ -178,11 +178,11 @@ There are many benefits of writing nicer code:
 - **Better science**: nice code allows you to handle bigger data sets and has less bugs.
 - **More fun**: spend less time wrestling with R, and more time working with data.
 - **Become more efficient**: Nice code is reusable, sharable, and quicker to run.
-- **Future employment**: You should consider anything you write (open or closed) to be a potential advert to a future employer. Code has impact. Code sharing [sites like github now make resumes for you](http://resume.github.io/?cboettig), to capture your impact.  Scientists with an analytical bent are often [sought-after in the natural sciences](http://www.nature.com/naturejobs/science/articles/10.1038/nj7440-271).
+- **Future employment**: You should consider anything you write (open or closed) to be a potential advert to a future employer. Code has impact. Code sharing [sites like github now make resumes for you](https://resume.github.io/?cboettig), to capture your impact.  Scientists with an analytical bent are often [sought-after in the natural sciences](https://www.nature.com/naturejobs/science/articles/10.1038/nj7440-271).
 
 If you need further motivation, consider this advice
 
-{{< figure src="http://nicercode.github.io/images/2013-04-05-why-nice-code/Maniac.jpg" title="An advisory pop-up for MS Visual C++" >}}
+{{< figure src="https://nicercode.github.io/images/2013-04-05-why-nice-code/Maniac.jpg" title="An advisory pop-up for MS Visual C++" >}}
 
 This might seem extreme, until you realise that the maniac serial killer is
 **you**, and you definitely know where you live.
@@ -204,10 +204,10 @@ supplementary material. Increasingly, journals are requiring code be submitted
 as part of the review process and these are often published online. Alas, much of the
 current crop of code is difficult to read. At best, having messy code may reduce
 the impact of your paper. But you might also get rejected because the
-reviewer couldn't understand your code. At worst, some people have had to [retract high profile work because of bugs in their code](http://www.sciencemag.org/content/314/5807/1856.summary).
+reviewer couldn't understand your code. At worst, some people have had to [retract high profile work because of bugs in their code](https://www.sciencemag.org/content/314/5807/1856.summary).
 
 It's time to write some nice R code.
 
-For further inspiration, you may like to check out Greg Wilson's great article "[Best Practices for Scientific Computing](http://arxiv.org/abs/1210.0530)."
+For further inspiration, you may like to check out Greg Wilson's great article "[Best Practices for Scientific Computing](https://arxiv.org/abs/1210.0530)."
 
-**Acknowledgements:**  Many thanks to [Greg Wilson](https://twitter.com/gvwilson), [Karthik Ram](http://inundata.org/), [Scott Chameberlain](http://schamberlain.github.io/scott/) and [Carl Boettiger](http://www.carlboettiger.info/) and [Rich FitzJohn](http://www.zoology.ubc.ca/~fitzjohn/) for inspirational chats, code and work.
+**Acknowledgements:**  Many thanks to [Greg Wilson](https://twitter.com/gvwilson), [Karthik Ram](https://inundata.org/), [Scott Chameberlain](https://schamberlain.github.io/scott/) and [Carl Boettiger](https://www.carlboettiger.info/) and [Rich FitzJohn](https://www.zoology.ubc.ca/~fitzjohn/) for inspirational chats, code and work.

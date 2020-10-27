@@ -21,7 +21,7 @@ I grew up in beautiful Sydney, surrounded by tall trees, and otherwise on campin
 
 **Citations**: > 1000 total citations, > 700 citations yr$^{-1}$, H-index of 32 [Google Scholar].
 
-**Datasets**: Leading new compilation "[AusTraits](http://traitecoevo.github.io/austraits.build/): curated plant trait database for the Australian flora"; previously produced global compilations: [Biomass and Allometry Database](https://github.com/dfalster/baad), the [Coral Traits Database](coraltraits.org).
+**Datasets**: Leading new compilation "[AusTraits](https://traitecoevo.github.io/austraits.build/): curated plant trait database for the Australian flora"; previously produced global compilations: [Biomass and Allometry Database](https://github.com/dfalster/baad), the [Coral Traits Database](coraltraits.org).
 
 **Software**: I have produced and made publicly available important software packages used in over 900 publications, including the statistical [SMATR](https://cran.r-project.org/web/packages/smatr/index.html) and the growth model, [plant](https://traitecoevo.github.io/plant/).
 
