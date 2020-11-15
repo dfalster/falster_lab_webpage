@@ -1,4 +1,12 @@
 alumni:
+  - fabrice:
+    name:
+      first: "Fabrice"
+      last: "Samonte"
+    title: "Intern & Research Assistant (2019-20)"
+    description: "Global forest height & extending datastorr"
+    github: "FabriceSamonte"
+    photo: "people/Samonte.jpg"
   - caitlin:
     name:
       first: "Caitlin"
