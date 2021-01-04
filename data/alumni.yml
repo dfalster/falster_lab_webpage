@@ -1,4 +1,28 @@
 alumni:
+
+  - rafael:
+    name:
+      first: "Rafael"
+      last: "Schouten"
+    title: "Research Assistant (2019-20)"
+    description: "Extending & generalising the plant model. Loves Julia, reluctantly uses R."
+    github: "rafaqz"
+    researchgate: Rafael_Schouten
+    photo: "people/Schouten.jpg"
+
+  - simon:
+    name:
+      first: "Simon"
+      last: "Gorta"
+    title: "Research Assistant (2019-20)"
+    description: "Investigating historical clearing activity in Myall Lakes National Park to compare past and present vegetation compositions, tree sizes and abundance and carbon sequestration in the landscape"
+    github: "SGorta"
+    twitter: "GortaBirds"
+    orcid: "0000-0002-7753-556X"
+    googlescholar: "1MWcRiMAAAAJ"
+    linkedin: "simon-gorta-b8393a116"
+    photo: "people/Gorta.jpg"
+
   - fabrice:
     name:
       first: "Fabrice"

@@ -14,12 +14,23 @@ members:
     researchgate: Daniel_Falster
     photo: "people/Falster.jpg"
 
+
+  - lizzy:
+    name:
+      first: "Dr Elizabeth"
+      last: "Wenk"
+    title: "Postdoctoral Fellow (2010-)"
+    description: "Compiling AusTraits - a data compilation on traits of Australian plants. Writes hiking guides."
+    wesbite: "https://www.amazon.com/Elizabeth-Wenk/e/B004R0TMBC"
+    github: "ehwenk"
+    photo: "people/Wenk.jpg"
+    
   - fonti:
     name:
       first: "Fonti"
       last: "Kar"
-    title: "Postdoctoral Fellow (starting 2020)"
-    description: "Quantitative modelling and software development"
+    title: "Postdoctoral Fellow (2020-)"
+    description: "R package development"
     wesbite: "https://fontikar.wordpress.com/"
     github: fontikar
     twitter: fonti_kar
@@ -28,37 +39,105 @@ members:
     researchgate: Fonti_Kar
     photo: "people/Kar.jpg"
 
+  - phil:
+    name:
+      first: "Philip"
+      last: "Zylstra"
+    title: "Postdoctoral Fellow (2020-)"
+    description: "Evolution of tall Eucalypts. Flammability dynamics."
+    github: pzylstra
+    twitter: phil_zylstra
+    linkedin: "philip-zylstra-101977170"
+    researchgate: Philip_Zylstra    
+    googlescholar: seVWf78AAAAJ
+    photo: "people/Zylstra.jpg"
+
+  - Saskia:
+    name:
+      first: "Saskia"
+      last: "Grootemaat"
+    title: "Postdoctoral Fellow (2020-)"
+    description: "Evolution of tall Eucalypts"
+    website: https://saskiagrootemaat.wordpress.com
+    linkedin: "saskia-grootemaat-9b685031"
+    researchgate: Saskia_Grootemaat   
+    googlescholar: mGmhRWUAAAAJ
+    photo: "people/Grootemaat.jpg"
+
+  - isaac:
+    name:
+      first: "Isaac"
+      last: "Towers"
+    title: "Postdoctoral Fellow (2020-)"
+    description: "Using traits to predict Eucalypt futures"
+    photo: "people/Towers.jpg"
+
+  - Andrew:
+    name:
+      first: "Andrew"
+      last: "O'Reilly-Nugent"
+    title: "Postdoctoral Fellow (2020-)"
+    description: "Carbon famring projects. Extending plant model."
+    github: aornugent
+    googlescholar: z2C996cAAAAJ
+    photo: "people/OReilly-Nugent.jpg"
+
   - dony:
     name:
       first: "Dony"
       last: "Indiarto"
-    title: "PhD Candidate"
+    title: "PhD Candidate (2018-)"
     description: "Plant functional traits and species range shifts"
     github: "dindiarto"
     twitter: "indiartd"
     linkedin: "dindiarto"
     photo: "people/Indiarto.jpg"
+
   - charlie:
     name:
       first: "Charlie"
       last: "Hinchliffe"
-    title: "PhD Candidate"
+    title: "PhD Candidate (2018-)"
     description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
     github: "charliehinchliffe"
     googlescholar: "FP-5KsgAAAAJ"
     photo: "people/Hinchliffe.jpg"
-  - pietro:
+
+  - gary:
     name:
-      first: "Pietro"
-      last: "Pollo"
-    title: "PhD Candidate (lead supervisor: Mike Kasumovic)"
-    description: "Studying sexual conflict"
-    researchgate: Pietro_Pollo
-    twitter: "pietro_pollo"
-    orcid: "0000-0001-6555-5400"
-    linkedin: pietro-pollo
-    googlescholar: "pSflDdEAAAAJ"
-    photo: "people/Pollo.jpg"
+      first: "Gary"
+      last: "Truong"
+    title: "Project Officer (2019-)"
+    description: "R coding and data handling"
+    github: "GaryTruong"
+    twitter: "GaryTruong16"
+    orcid: "0000-0001-5308-8745"
+    googlescholar: "LjKRJBkAAAAJ"
+    linkedin: "gary-truong-40b916101"
+    researchgate: Gary_Truong
+    photo: "people/Truong.jpg"
+
+  - theresa:
+    name:
+      first: "Theresa"
+      last: "O'Brien"
+    title: "MSc Candidate (2020-)"
+    description: "Tropical tree life histories"
+    researchgate:
+    twitter: ""
+    orcid: ""
+    googlescholar: ""
+    photo: "people/O'Brien.jpg"
+
+
+  - fiona:
+    name:
+      first: "Fiona"
+      last: "Robinson"
+    title: "PhD Candidate (2020-)"
+    description: "Climate change impact on carbon farming projects"
+    linkedin: "fiona-robinson"
+    photo: "people/Robinson.jpg"
 
   - rebecca:
     name:
@@ -72,91 +151,22 @@ members:
     linkedin: "rebecca-stolper-718b90a7"
     googlescholar: ""
     photo: "people/Stolper.jpg"
-  - theresa:
-    name:
-      first: "Theresa"
-      last: "O'Brien"
-    title: "MSc Candidate (starting 2020)"
-    description: "Tropical tree life histories"
-    researchgate:
-    twitter: ""
-    orcid: ""
-    googlescholar: ""
-    photo: "people/O'Brien.jpg"
 
-  - lizzy:
-    name:
-      first: "Dr Elizabeth"
-      last: "Wenk"
-    title: "Research Assistant"
-    description: "Compiling AusTraits - a data compilation on traits of Australian plants. Writes hiking guides."
-    wesbite: "https://www.amazon.com/Elizabeth-Wenk/e/B004R0TMBC"
-    github: "ehwenk"
-    photo: "people/Wenk.jpg"
-  - rafael:
-    name:
-      first: "Rafael"
-      last: "Schouten"
-    title: "Research Assistant"
-    description: "Extending & generalising the plant model. Loves Julia, reluctantly uses R."
-    github: "rafaqz"
-    researchgate: Rafael_Schouten
-    photo: "people/Schouten.jpg"
-  - simon:
-    name:
-      first: "Simon"
-      last: "Gorta"
-    title: "Research Assistant"
-    description: "Investigating historical clearing activity in Myall Lakes National Park to compare past and present vegetation compositions, tree sizes and abundance and carbon sequestration in the landscape"
-    github: "SGorta"
-    twitter: "GortaBirds"
-    orcid: "0000-0002-7753-556X"
-    googlescholar: "1MWcRiMAAAAJ"
-    linkedin: "simon-gorta-b8393a116"
-    photo: "people/Gorta.jpg"
-  - gary:
-    name:
-      first: "Gary"
-      last: "Truong"
-    title: "Project Officer"
-    description: "R coding and data handling"
-    github: "GaryTruong"
-    twitter: "GaryTruong16"
-    orcid: "0000-0001-5308-8745"
-    googlescholar: "LjKRJBkAAAAJ"
-    linkedin: "gary-truong-40b916101"
-    researchgate: Gary_Truong
-    photo: "people/Truong.jpg"
   - ashleigh:
     name:
       first: "Ashleigh"
       last: "Ford"
-    title: "Undergraduate Research Student"
-    description: "Dendrochronology in Australian trees"
+    title: "Honours Student (2020)"
+    description: "Plant growth rates; Dendrochronology in Australian trees"
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
 
-
-  - saras:
+  - lily:
     name:
-      first: "Dr Saras"
-      last: "Windecker"
-    title: "Collaborating Postdoctoral Fellow"
-    description: "Trait-based species distributions"
-    website: "smwindecker.com"
-    github: "smwindecker"
-    twitter: "smwindecker"
-    orcid: "0000-0002-4870-8353"
-    cv: "https://www.smwindecker.com/files/cv.pdf"
-    photo: "people/Windecker.jpg"
-  - baptiste:
-    name:
-      first: "Baptiste"
-      last: "Wijas"
-    title: "Collaborating PhD Candidate"
-    description: "Modelling how top predators impact vegetation and nutrient dynamics in the ecosystem"
-    github: "BaptisteWij"
-    twitter: "BapsWijas"
-    orcid: "0000-0001-7895-083X"
-    photo: "people/Wijas.jpg"
+      first: "Lily"
+      last: "Dun"
+    title: "Honours Student (2020)"
+    description: "Post fire light environments"
+    twitter: "@lilydun3"
+    photo: "people/Dun.jpg"

@@ -1,0 +1,38 @@
+collaborating:
+
+  - saras:
+    name:
+      first: "Dr Saras"
+      last: "Windecker"
+    title: "Postdoctoral Fellow (Uni Melb)"
+    description: "Trait-based species distributions"
+    website: "smwindecker.com"
+    github: "smwindecker"
+    twitter: "smwindecker"
+    orcid: "0000-0002-4870-8353"
+    cv: "https://www.smwindecker.com/files/cv.pdf"
+    photo: "people/Windecker.jpg"
+
+  - pietro:
+    name:
+      first: "Pietro"
+      last: "Pollo"
+    title: "PhD Candidate (lead supervisor: Mike Kasumovic)"
+    description: "Studying sexual conflict"
+    researchgate: Pietro_Pollo
+    twitter: "pietro_pollo"
+    orcid: "0000-0001-6555-5400"
+    linkedin: pietro-pollo
+    googlescholar: "pSflDdEAAAAJ"
+    photo: "people/Pollo.jpg"
+
+  - baptiste:
+    name:
+      first: "Baptiste"
+      last: "Wijas"
+    title: "PhD Candidate (lead supervisor: Mike Letnic)"
+    description: "Modelling how top predators impact vegetation and nutrient dynamics in the ecosystem"
+    github: "BaptisteWij"
+    twitter: "BapsWijas"
+    orcid: "0000-0001-7895-083X"
+    photo: "people/Wijas.jpg"

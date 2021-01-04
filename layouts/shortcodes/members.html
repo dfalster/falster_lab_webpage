@@ -1,8 +1,18 @@
 
 <div class="section text-center">
-<h2 id="alumni">Current</h2>
+<h2 id="current">Current</h2>
 <div class="row">
 {{ range $.Site.Data.members }}
+{{ range . }}
+{{ partial "member.html" . }}
+{{ end }}
+{{ end }}
+</div>
+
+
+<h2 id="collaborators">Collaborating students and post-docs based in other labs.</h2>
+<div class="row">
+{{ range $.Site.Data.collaborating }}
 {{ range . }}
 {{ partial "member.html" . }}
 {{ end }}
