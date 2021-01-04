@@ -18,13 +18,9 @@ Below are details on opportunities for [open positions](#open), potentials for [
 
 ## Open positions {#open}
 
-We have two positions currently open:
+There are no positions currently open. In the near future we will be seeking people to work on extending AusTraits. Stay tuned for further information.
 
-* Post-doc (1.9yr) - [Understanding when and how trees get really tall](/2020-10-26-postdoc/). Applications due Nov 16.
-* Post-doc (1.9yr) - [Eucalypt futures: using functional traits to predict species distributions and responses to environmental change](/2020-10-27-postdoc/).  Applications due Nov 16.
-
-
-## MSc and PhD students {#HDR}
+##PhD and MSc students {#HDR}
 
 I am interested in supervising students seeking to apply quantitative methods to answer fundamental and applied questions in ecology. If you are interested in joining the lab, please send a brief statement of research interests, along with a CV, to Daniel.
 
