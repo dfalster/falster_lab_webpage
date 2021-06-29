@@ -45,7 +45,7 @@ paginate = 100
 [[menu.main]]
     name = "Publications"
     pre = "<i class='material-icons'>library_books</i>"
-    url = "https://scholar.google.com/citations?hl=en&user=QXMISwEAAAAJ"
+    url = "http://scholar.google.com/citations?hl=en&user=QXMISwEAAAAJ"
     weight = 6
 [[menu.main]]
   name = "Notebook"
@@ -63,16 +63,14 @@ paginate = 100
   identifier = "UNSW"
   name = "UNSW Sydney"
   pre = "<i class=\"material-icons\">pin_drop</i>"
-  url = "https://bees.usnw.edu.au"
+  url = "https://bees.unsw.edu.au"
 
 [[menu.footer]]
   weight = 2
   identifier = "EERC"
   name = "Evolution & Ecology Research Centre"
   pre = "<i class=\"material-icons\">pin_drop</i>"
-  url = "https://eerc.usnw.edu.au"
-
-
+  url = "http://www.eerc.unsw.edu.au"
 
 [params]
     background = "/img/background_banksia.jpg"
