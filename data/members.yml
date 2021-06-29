@@ -188,15 +188,17 @@ members:
       last: "Yang"
     title: "Honours Student (2020)"
     description: "Fire response strategies in Australian plants"
+    email: "sophie.yang917@gmail.com"
+    inaturalist: "loafieee"
+    ebird: "MTYwNjA3NQ"
     linkedin: "sophie-yang-7b703715b"
     github: "yangsophieee"
-    inaturalist: "loafieee"
     photo: "people/Yang.jpg"
 
   - GillianK:
     name:
       first: "Gillian"
-      last: "Kowalick "
+      last: "Kowalick"
     title: "Volunteer (2020)"
     description: "Vessel size in Australian plants"
     github: "GillianKowalick"
