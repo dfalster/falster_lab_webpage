@@ -16,13 +16,15 @@
 <div class="card-footer justify-content-center">
 {{ with .email }}<a class="btn btn-link btn-just-icon" href="mailto:{{.}}" title="email"><i class="fa fa-envelope"></i></a>{{ end }}
 {{ with .wesbite }}<a class="btn btn-link btn-just-icon" href="{{.}}" title="wesbite"><i class="fa fa-home"></i></a>{{ end }}
-{{ with .twitter }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://twitter.com/{{.}}" title="Twitter: {{.}}"><i class="fa fa-twitter"></i></a>{{ end }}
+{{ with .orcid }}<a class="btn btn-link btn-just-icon" rel="http://purl.org/spar/datacite/orcid" href="https://orcid.org/{{.}}" title="ORCID ID"><i class="ai ai-orcid"></i></a>{{ end }}
 {{ with .googlescholar }}<a class="btn btn-link btn-just-icon" rel="foaf:publications" href="https://scholar.google.com/citations?hl=en&user={{.}}" title="Publications"><i class="ai ai-google-scholar"></i></a>{{ end }}
 {{ with .github }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://github.com/{{.}}" title="GitHub: {{.}}"><i class="fa fa-github"></i></a>{{ end }}
-{{ with .orcid }}<a class="btn btn-link btn-just-icon" rel="http://purl.org/spar/datacite/orcid" href="https://orcid.org/{{.}}" title="ORCID ID"><i class="ai ai-orcid"></i></a>{{ end }}
+{{ with .twitter }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://twitter.com/{{.}}" title="Twitter: {{.}}"><i class="fa fa-twitter"></i></a>{{ end }}
+{{ with .inaturalist }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://www.inaturalist.org/people/{{.}}" title="iNaturlaist: {{.}}"><i class="fa fa-binoculars"></i></a>{{ end }}
 {{ with .impactstory }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://profiles.impactstory.org/u/{{.}}" title="ImpactStory"><i class="ai ai-impactstory"></i></a>{{ end }}
 {{ with .linkedin }}<a  class="btn btn-link btn-just-icon" rel="foaf:account" href="https://www.linkedin.com/in/{{.}}" title="LinkedIn"><i class="fa fa-linkedin"></i></a>{{ end }}
 {{ with .researchgate }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://www.researchgate.net/profile/{{.}}" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{{ end }}
+{{ with .amazon }}<a class="btn btn-link btn-just-icon" rel="foaf:account" href="https://www.amazon.com/{{.}}" title="Amazon: {{.}}"><i class="fa fa-amazon"></i></a>{{ end }}
 </div>
 
 </div>

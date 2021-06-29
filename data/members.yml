@@ -11,9 +11,9 @@ members:
     impactstory: "0000-0002-9814-092X"
     linkedin: "danielfalster"
     googlescholar: "QXMISwEAAAAJ"
+    inaturalist: "dfalster"
     researchgate: Daniel_Falster
     photo: "people/Falster.jpg"
-
 
   - lizzy:
     name:
@@ -21,9 +21,10 @@ members:
       last: "Wenk"
     title: "Postdoctoral Fellow (2010-)"
     description: "Compiling AusTraits - a data compilation on traits of Australian plants. Writes hiking guides."
-    wesbite: "https://www.amazon.com/Elizabeth-Wenk/e/B004R0TMBC"
     github: "ehwenk"
     photo: "people/Wenk.jpg"
+    amazon: "Elizabeth-Wenk/e/B004R0TMBC"
+    orcid: "0000-0001-5640-5910"
     
   - fonti:
     name:
@@ -108,7 +109,7 @@ members:
       first: "Gary"
       last: "Truong"
     title: "Project Officer (2019-)"
-    description: "R coding and data handling"
+    description: "AusTraits"
     github: "GaryTruong"
     twitter: "GaryTruong16"
     orcid: "0000-0001-5308-8745"
@@ -143,7 +144,7 @@ members:
     name:
       first: "Rebecca"
       last: "Stolper"
-    title: "MPhil Candidate (starting 2020)"
+    title: "MPhil Candidate (2020-)"
     description: "Tree growth & mortality"
     researchgate: Rebecca_Stolper
     twitter: ""
@@ -170,3 +171,32 @@ members:
     description: "Post fire light environments"
     twitter: "@lilydun3"
     photo: "people/Dun.jpg"
+
+  - WillMagney:
+    name:
+      first: "Willem"
+      last: "Magney"
+    title: "Honours Student (2020)"
+    description: "Mortality in Mulga"
+    photo: "people/you.png"
+
+  - sophie:
+    name:
+      first: "Sophie"
+      last: "Yang"
+    title: "Honours Student (2020)"
+    description: "Fire repsonse stratgies"
+    linkedin: "sophie-yang-7b703715b"
+    github: "yangsophieee"
+    photo: "people/Yang.jpg"
+
+  - GillianK:
+    name:
+      first: "Gillian"
+      last: "Kowalick "
+    title: "Volunteer (2020)"
+    description: "Vessel size in Australian plants"
+    github: "GillianKowalick"
+    twitter: "GillianKowalick"
+    inaturalist: "2556733"
+    photo: "people/Kowalick.jpg"
