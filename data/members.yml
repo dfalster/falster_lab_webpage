@@ -100,7 +100,7 @@ members:
     name:
       first: "Charlie"
       last: "Hinchliffe"
-    title: "PhD Candidate (2018-)"
+    title: "PhD Candidate (2018-2022)"
     description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
     github: "charliehinchliffe"
     googlescholar: "FP-5KsgAAAAJ"
@@ -110,7 +110,7 @@ members:
     name:
       first: "Gary"
       last: "Truong"
-    title: "Project Officer (2019-)"
+    title: "Project Officer (2020-)"
     description: "AusTraits"
     github: "GaryTruong"
     twitter: "GaryTruong16"
@@ -119,6 +119,16 @@ members:
     linkedin: "gary-truong-40b916101"
     researchgate: Gary_Truong
     photo: "people/Truong.jpg"
+    
+  - david:
+    name:
+      first: "David"
+      last: "Coleman"
+    title: "Project Officer (2021-)"
+    description: "AusTraits"
+    github: "dcol2804"
+    twitter: "davedoesscience"
+    photo: "people/Coleman.jpg"
 
   - theresa:
     name:
@@ -159,7 +169,7 @@ members:
     name:
       first: "Ashleigh"
       last: "Ford"
-    title: "Honours Student (2020)"
+    title: "Casual research assistant (2022); Honours Student (2021)"
     description: "Plant growth rates; Dendrochronology in Australian trees"
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"
@@ -169,8 +179,8 @@ members:
     name:
       first: "Lily"
       last: "Dun"
-    title: "Honours Student (2020)"
-    description: "Post fire light environments"
+    title: "Research assistant (2022-); Honours Student (2021)"
+    description: "Floral traits, Competition for light"
     twitter: "@lilydun3"
     photo: "people/Dun.jpg"
 
@@ -178,7 +188,7 @@ members:
     name:
       first: "Willem"
       last: "Magney"
-    title: "Honours Student (2020)"
+    title: "Honours Student (2021-22)"
     description: "Drought driven mortality in Mulga"
     photo: "people/Magney.jpg"
 
@@ -186,7 +196,7 @@ members:
     name:
       first: "Sophie"
       last: "Yang"
-    title: "Honours Student (2020)"
+    title: "Honours Student (2021-22)"
     description: "Fire response strategies in Australian plants"
     email: "sophie.yang917@gmail.com"
     twitter: "sophieyang_"
@@ -200,9 +210,19 @@ members:
     name:
       first: "Gillian"
       last: "Kowalick"
-    title: "Volunteer (2020)"
+    title: "Honours Student (2022); Volunteer (2021)"
     description: "Vessel size in Australian plants"
     github: "GillianKowalick"
     twitter: "GillianKowalick"
     inaturalist: "2556733"
     photo: "people/Kowalick.jpg"
+
+
+  - Mitch:
+    name:
+      first: "Mitchell"
+      last: "Henry"
+    title: "Programmer (2021-)"
+    description: "Improving the plant model"
+    github: "devmitch"
+    photo: "people/Henry.jpg"

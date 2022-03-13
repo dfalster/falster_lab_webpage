@@ -31,6 +31,7 @@ alumni:
     description: "Global forest height & extending datastorr"
     github: "FabriceSamonte"
     photo: "people/Samonte.jpg"
+
   - caitlin:
     name:
       first: "Caitlin"
@@ -39,6 +40,7 @@ alumni:
     description: "Compiling AusTraits - a data compilation on traits of Australian plants."
     github: "CaitlinB"
     photo: "people/Baxter.jpg"
+
   - johnW:
     name:
       first: "John"
@@ -50,6 +52,7 @@ alumni:
     linkedin: john-wilshire-5bb3a899
     googlescholar: "ZbqYAKsAAAAJ"
     photo: "people/Wilshire.jpg"
+  
   - emma:
     name:
       first: "Dr Emma"
@@ -57,6 +60,7 @@ alumni:
     title: "PhD Candidate (2013-17)"
     description: "Growth rates and functional traits of tropical rainforest and savanna species"
     photo: "people/Gray.jpg"
+  
   - james:
     name:
       first: "Dr James"
@@ -68,6 +72,7 @@ alumni:
     googlescholar: "3ipUAAAAJ"
     photo: "people/Camac.jpg"
     github: "jscamac"
+  
   - anais:
     name:
       first: "Dr Anaïs"
@@ -80,6 +85,7 @@ alumni:
     orcid: "0000-0001-7672-6033"
     googlescholar: "Ii4Uwu8AAAAJ"
     photo: "people/Gibert.jpg"
+ 
   - rich:
     name:
       first: "Dr Rich"
@@ -91,6 +97,7 @@ alumni:
     twitter: "rgfitzjohn"
     linkedin: "rich-fitzjohn-602a43ba"
     photo: "people/FitzJohn.jpg"
+
   - georges:
     name:
       first: "Dr Georges"
@@ -104,6 +111,7 @@ alumni:
     researchgate: Georges_Kunstler
     orcid: "0000-0002-2544-1940"
     photo: "people/Kunstler.jpg"
+
   - Diego:
     name:
       first: "Dr Deigo"
@@ -115,6 +123,7 @@ alumni:
     twitter: "georgeskunstler"
     googlescholar: "V1-2VSUAAAAJ"
     photo: "people/Barneche.jpg"
+
   - Angelica:
     name:
       first: "Dr Angelica"
