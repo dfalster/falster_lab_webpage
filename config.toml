@@ -45,7 +45,7 @@ paginate = 100
 [[menu.main]]
     name = "Publications"
     pre = "<i class='material-icons'>library_books</i>"
-    url = "http://scholar.google.com/citations?hl=en&user=QXMISwEAAAAJ"
+    url = "https://scholar.google.com/citations?user=QXMISwEAAAAJ&hl=en"
     weight = 6
 [[menu.main]]
   name = "Notebook"
