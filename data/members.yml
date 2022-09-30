@@ -85,51 +85,6 @@ members:
     googlescholar: z2C996cAAAAJ
     photo: "people/OReilly-Nugent.jpg"
 
-  - dony:
-    name:
-      first: "Dony"
-      last: "Indiarto"
-    title: "PhD Candidate (2018-)"
-    description: "Plant functional traits and species range shifts"
-    github: "dindiarto"
-    twitter: "indiartd"
-    linkedin: "dindiarto"
-    photo: "people/Indiarto.jpg"
-
-  - charlie:
-    name:
-      first: "Charlie"
-      last: "Hinchliffe"
-    title: "PhD Candidate (2018-2022)"
-    description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
-    github: "charliehinchliffe"
-    googlescholar: "FP-5KsgAAAAJ"
-    photo: "people/Hinchliffe.jpg"
-
-  - gary:
-    name:
-      first: "Gary"
-      last: "Truong"
-    title: "Project Officer (2020-)"
-    description: "AusTraits"
-    github: "GaryTruong"
-    twitter: "GaryTruong16"
-    orcid: "0000-0001-5308-8745"
-    googlescholar: "LjKRJBkAAAAJ"
-    linkedin: "gary-truong-40b916101"
-    researchgate: Gary_Truong
-    photo: "people/Truong.jpg"
-    
-  - david:
-    name:
-      first: "David"
-      last: "Coleman"
-    title: "Project Officer (2021-)"
-    description: "AusTraits"
-    github: "dcol2804"
-    twitter: "davedoesscience"
-    photo: "people/Coleman.jpg"
-
   - theresa:
     name:
       first: "Theresa"
@@ -142,12 +97,11 @@ members:
     googlescholar: ""
     photo: "people/O'Brien.jpg"
 
-
   - fiona:
     name:
       first: "Fiona"
       last: "Robinson"
-    title: "PhD Candidate (2020-)"
+    title: "PhD Candidate (2021-)"
     description: "Climate change impact on carbon farming projects"
     linkedin: "fiona-robinson"
     photo: "people/Robinson.jpg"
@@ -165,16 +119,6 @@ members:
     googlescholar: ""
     photo: "people/Stolper.jpg"
 
-  - ashleigh:
-    name:
-      first: "Ashleigh"
-      last: "Ford"
-    title: "Casual research assistant (2022); Honours Student (2021)"
-    description: "Plant growth rates; Dendrochronology in Australian trees"
-    twitter: "@ash_m_ford"
-    linkedin: "ashleigh-ford-28185b148"
-    photo: "people/Ford.jpg"
-
   - lily:
     name:
       first: "Lily"
@@ -189,7 +133,7 @@ members:
       first: "Willem"
       last: "Magney"
     title: "Honours Student (2021-22)"
-    description: "Drought driven mortality in Mulga"
+    description: "Gradients in Mulga traits"
     photo: "people/Magney.jpg"
 
   - sophie:

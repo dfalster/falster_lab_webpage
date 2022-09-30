@@ -1,5 +1,15 @@
 collaborating:
 
+  - david:
+    name:
+      first: "David"
+      last: "Coleman"
+    title: "Project Officer (WSU)"
+    description: "AusTraits"
+    github: "dcol2804"
+    twitter: "davedoesscience"
+    photo: "people/Coleman.jpg"
+
   - saras:
     name:
       first: "Dr Saras"
@@ -12,19 +22,6 @@ collaborating:
     orcid: "0000-0002-4870-8353"
     cv: "https://www.smwindecker.com/files/cv.pdf"
     photo: "people/Windecker.jpg"
-
-  - pietro:
-    name:
-      first: "Pietro"
-      last: "Pollo"
-    title: "PhD Candidate (lead supervisor: Mike Kasumovic)"
-    description: "Studying sexual conflict"
-    researchgate: Pietro_Pollo
-    twitter: "pietro_pollo"
-    orcid: "0000-0001-6555-5400"
-    linkedin: pietro-pollo
-    googlescholar: "pSflDdEAAAAJ"
-    photo: "people/Pollo.jpg"
 
   - baptiste:
     name:

@@ -1,5 +1,50 @@
 alumni:
 
+  - dony:
+    name:
+      first: "Dony"
+      last: "Indiarto"
+    title: "PhD Candidate (2018-22)"
+    description: "Plant functional traits and species range shifts"
+    github: "dindiarto"
+    twitter: "indiartd"
+    linkedin: "dindiarto"
+    photo: "people/Indiarto.jpg"
+
+  - charlie:
+    name:
+      first: "Charlie"
+      last: "Hinchliffe"
+    title: "PhD Candidate (2018-22)"
+    description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
+    github: "charliehinchliffe"
+    googlescholar: "FP-5KsgAAAAJ"
+    photo: "people/Hinchliffe.jpg"
+
+  - ashleigh:
+    name:
+      first: "Ashleigh"
+      last: "Ford"
+    title: "Casual research assistant (2022); Honours Student (2021)"
+    description: "Plant growth rates; Dendrochronology in Australian trees"
+    twitter: "@ash_m_ford"
+    linkedin: "ashleigh-ford-28185b148"
+    photo: "people/Ford.jpg"
+
+  - gary:
+    name:
+      first: "Gary"
+      last: "Truong"
+    title: "Project Officer (2021-22)"
+    description: "AusTraits"
+    github: "GaryTruong"
+    twitter: "GaryTruong16"
+    orcid: "0000-0001-5308-8745"
+    googlescholar: "LjKRJBkAAAAJ"
+    linkedin: "gary-truong-40b916101"
+    researchgate: Gary_Truong
+    photo: "people/Truong.jpg"
+
   - rafael:
     name:
       first: "Rafael"
