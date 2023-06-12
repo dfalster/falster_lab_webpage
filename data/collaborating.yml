@@ -34,7 +34,7 @@ collaborating:
     orcid: "0000-0001-7895-083X"
     photo: "people/Wijas.jpg"
 
- - Helen:
+  - Helen:
     name:
       first: "Helen"
       last: "Crisp"
@@ -43,13 +43,12 @@ collaborating:
     photo: "people/Crisp.jpg"
     linkedin: "helencrisp"
 
- - Lyra:
+  - Lyra:
     name:
       first: "Lyra"
       last: "Huang"
     title: "PhD Candidate (lead supervisor: T Rogers)"
-    description: "Assessing and improving the long-term sustainability of threatened species reintroduction programs"
+    description: "Distributions of Dugongs"
     photo: "people/Huang.jpg"
-    linkedin: "helencrisp"
     twitter: "sleepyylyra"
     googlescholar: "SiWdjKcAAAAJ"
