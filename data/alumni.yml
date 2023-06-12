@@ -8,17 +8,7 @@ alumni:
     description: "Floral traits, Competition for light"
     twitter: "@lilydun3"
     photo: "people/Dun.jpg"
-
-  - GillianK:
-    name:
-      first: "Gillian"
-      last: "Kowalick"
-    title: "Honours Student (2022); Volunteer (2021)"
-    description: "Vessel size in Australian plants"
-    github: "GillianKowalick"
-    twitter: "GillianKowalick"
-    inaturalist: "2556733"
-    photo: "people/Kowalick.jpg"
+    linkedin: "lily-dun-b2691718b"
 
   - Mitch:
     name:
@@ -57,16 +47,6 @@ alumni:
     github: "charliehinchliffe"
     googlescholar: "FP-5KsgAAAAJ"
     photo: "people/Hinchliffe.jpg"
-
-  - ashleigh:
-    name:
-      first: "Ashleigh"
-      last: "Ford"
-    title: "Casual research assistant (2022); Honours Student (2021)"
-    description: "Plant growth rates; Dendrochronology in Australian trees"
-    twitter: "@ash_m_ford"
-    linkedin: "ashleigh-ford-28185b148"
-    photo: "people/Ford.jpg"
 
   - gary:
     name:

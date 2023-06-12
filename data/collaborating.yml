@@ -4,7 +4,7 @@ collaborating:
     name:
       first: "David"
       last: "Coleman"
-    title: "Project Officer (WSU)"
+    title: "Postdoctoral Researcher (WSU)"
     description: "AusTraits"
     github: "dcol2804"
     twitter: "davedoesscience"
@@ -33,3 +33,23 @@ collaborating:
     twitter: "BapsWijas"
     orcid: "0000-0001-7895-083X"
     photo: "people/Wijas.jpg"
+
+ - Helen:
+    name:
+      first: "Helen"
+      last: "Crisp"
+    title: "PhD Candidate (lead supervisor: K Moseby)"
+    description: "Assessing and improving the long-term sustainability of threatened species reintroduction programs"
+    photo: "people/Crisp.jpg"
+    linkedin: "helencrisp"
+
+ - Lyra:
+    name:
+      first: "Lyra"
+      last: "Huang"
+    title: "PhD Candidate (lead supervisor: T Rogers)"
+    description: "Assessing and improving the long-term sustainability of threatened species reintroduction programs"
+    photo: "people/Huang.jpg"
+    linkedin: "helencrisp"
+    twitter: "sleepyylyra"
+    googlescholar: "SiWdjKcAAAAJ"
