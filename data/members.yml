@@ -3,7 +3,7 @@ members:
     name:
       first: "Assoc Prof Daniel"
       last: "Falster"
-    title: "Lab Leader"
+    title: "Lab leader"
     description: "How does competition shape the ecology, population dynamics, and traits of species and communities?"
     github: "dfalster"
     twitter: "adaptive_plant"
@@ -19,8 +19,8 @@ members:
     name:
       first: "Dr Elizabeth"
       last: "Wenk"
-    title: "Postdoctoral Fellow (2010-)"
-    description: "Compiling AusTraits - a data compilation on traits of Australian plants. Writes hiking guides."
+    title: "Postdoctoral fellow (2010-)"
+    description: "AusTraits project manager. Writes hiking guides for Sierra Nevada."
     github: "ehwenk"
     photo: "people/Wenk.jpg"
     amazon: "Elizabeth-Wenk/e/B004R0TMBC"
@@ -30,7 +30,7 @@ members:
     name:
       first: "Fonti"
       last: "Kar"
-    title: "Postdoctoral Fellow (2020-)"
+    title: "Postdoctoral fellow (2020-)"
     description: "R package development"
     wesbite: "https://fontikar.wordpress.com/"
     github: fontikar
@@ -40,68 +40,29 @@ members:
     researchgate: Fonti_Kar
     photo: "people/Kar.jpg"
 
-  - phil:
-    name:
-      first: "Philip"
-      last: "Zylstra"
-    title: "Postdoctoral Fellow (2020-2023)"
-    description: "Evolution of tall Eucalypts. Flammability dynamics."
-    github: pzylstra
-    twitter: phil_zylstra
-    linkedin: "philip-zylstra-101977170"
-    researchgate: Philip_Zylstra    
-    googlescholar: seVWf78AAAAJ
-    photo: "people/Zylstra.jpg"
-
-  - Saskia:
-    name:
-      first: "Saskia"
-      last: "Grootemaat"
-    title: "Postdoctoral Fellow (2020-2023)"
-    description: "Evolution of tall Eucalypts"
-    website: https://saskiagrootemaat.wordpress.com
-    linkedin: "saskia-grootemaat-9b685031"
-    researchgate: Saskia_Grootemaat   
-    googlescholar: mGmhRWUAAAAJ
-    photo: "people/Grootemaat.jpg"
-
   - isaac:
     name:
       first: "Isaac"
       last: "Towers"
-    title: "Postdoctoral Fellow (2020-)"
-    description: "Using traits to predict Eucalypt futures"
+    title: "Postdoctoral fellow (2020-)"
+    description: "Trait based models of vegetation structure and dynamics."
     github: itowers1
     researchgate: Isaac-Towers
     photo: "people/Towers.jpg"
-
-  - Andrew:
-    name:
-      first: "Andrew"
-      last: "O'Reilly-Nugent"
-    title: "Postdoctoral Fellow (2020-)"
-    description: "Carbon farming projects. Extending plant model."
-    github: aornugent
-    googlescholar: z2C996cAAAAJ
-    photo: "people/OReilly-Nugent.jpg"
 
   - theresa:
     name:
       first: "Theresa"
       last: "O'Brien"
-    title: "PhD Candidate (2021-)"
-    description: "Tropical tree life histories"
-    researchgate:
-    twitter: ""
-    orcid: ""
-    googlescholar: ""
+    title: "PhD candidate (2021-)"
+    description: "Fitting longitudinal models of tree growth."
     photo: "people/O'Brien.jpg"
 
   - fiona:
     name:
       first: "Fiona"
       last: "Robinson"
-    title: "PhD Candidate (2021-)"
+    title: "PhD candidate (2021-)"
     description: "Climate change impact on carbon farming projects"
     linkedin: "fiona-robinson"
     photo: "people/Robinson.jpg"
@@ -110,8 +71,8 @@ members:
     name:
       first: "Rebecca"
       last: "Stolper"
-    title: "MPhil Candidate (2020-23)"
-    description: "Tree growth & mortality"
+    title: "MPhil candidate (2020-23)"
+    description: "Trait based models of self thinning"
     researchgate: Rebecca_Stolper
     twitter: ""
     orcid: ""
@@ -119,46 +80,12 @@ members:
     googlescholar: ""
     photo: "people/Stolper.jpg"
 
-  - sophie:
-    name:
-      first: "Sophie"
-      last: "Yang"
-    title: "Research Assistant (2022-); Honours Student (2021-22)"
-    description: "Fire response strategies in Australian plants"
-    email: "sophie.yang917@gmail.com"
-    twitter: "sophieyang_"
-    inaturalist: "sophiey_"
-    ebird: "MTYwNjA3NQ"
-    linkedin: "sophie-yang-7b703715b"
-    github: "yangsophieee"
-    photo: "people/Yang.jpg"
-
-  - GillianK:
-    name:
-      first: "Gillian"
-      last: "Kowalick"
-    title: "Research Assistant (2023-); Honours Student (2022); Volunteer (2021)"
-    description: "Vessel size of tall Euclaypts"
-    github: "GillianKowalick"
-    twitter: "GillianKowalick"
-    inaturalist: "2556733"
-    photo: "people/Kowalick.jpg"
-
-  - ElijahM:
-    name:
-      first: "Elijah"
-      last: "Magistrado"
-    title: "Honours Student (2023)"
-    description: "Vessel size in Eucalypts"
-    github: "elijahmagistrado"
-    linkedin: "elijahmagistrado"
-    photo: "people/Magistrado.jpg"
 
   - ashleigh:
     name:
       first: "Ashleigh"
       last: "Ford"
-    title: "PhD Student (2024-); research assistant (2022); Honours Student (2021)"
+    title: "PhD candidate (2024-) | Research assistant (2022) | Honours student (2021)"
     description: "Growth rates of Mulga via dendrochronology"
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"

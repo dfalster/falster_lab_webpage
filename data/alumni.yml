@@ -1,11 +1,104 @@
 alumni:
 
+  - sophie:
+    name:
+      first: "Sophie"
+      last: "Yang"
+    title: "Research assistant (2022-23) | Honours student (2021-22)"
+    description: "AusTraits | Fire response strategies in Australian plants"
+    email: "sophie.yang917@gmail.com"
+    twitter: "sophieyang_"
+    inaturalist: "sophiey_"
+    ebird: "MTYwNjA3NQ"
+    linkedin: "sophie-yang-7b703715b"
+    github: "yangsophieee"
+    photo: "people/Yang.jpg"
+
+  - GillianK:
+    name:
+      first: "Gillian"
+      last: "Kowalick"
+    title: "Research assistant (2023-) | Honours student (2022) | Intern (2021)"
+    description: "AusTraits | Vessel size of tall Euclaypts"
+    github: "GillianKowalick"
+    twitter: "GillianKowalick"
+    inaturalist: "2556733"
+    photo: "people/Kowalick.jpg"
+
+  - ElijahM:
+    name:
+      first: "Elijah"
+      last: "Magistrado"
+    title: "Honours student (2023)"
+    description: "Vessel size in Australian plants"
+    github: "elijahmagistrado"
+    linkedin: "elijahmagistrado"
+    photo: "people/Magistrado.jpg"
+    
+  - Andrew:
+    name:
+      first: "Andrew"
+      last: "O'Reilly-Nugent"
+    title: "P/T Postdoctoral fellow (2020-2022)"
+    description: "Carbon farming projects. Extending plant model."
+    github: aornugent
+    googlescholar: z2C996cAAAAJ
+    photo: "people/OReilly-Nugent.jpg"
+
+  - phil:
+    name:
+      first: "Philip"
+      last: "Zylstra"
+    title: "P/T Postdoctoral fellow (2020-2022)"
+    description: "Evolution of tall Eucalypts. Flammability dynamics."
+    github: pzylstra
+    twitter: phil_zylstra
+    linkedin: "philip-zylstra-101977170"
+    researchgate: Philip_Zylstra    
+    googlescholar: seVWf78AAAAJ
+    photo: "people/Zylstra.jpg"
+
+  - Saskia:
+    name:
+      first: "Saskia"
+      last: "Grootemaat"
+    title: "P/T Postdoctoral fellow (2020-2022)"
+    description: "Evolution of tall Eucalypts"
+    website: https://saskiagrootemaat.wordpress.com
+    linkedin: "saskia-grootemaat-9b685031"
+    researchgate: Saskia_Grootemaat   
+    googlescholar: mGmhRWUAAAAJ
+    photo: "people/Grootemaat.jpg"
+
+  - david:
+    name:
+      first: "David"
+      last: "Coleman"
+    title: "Postdoctoral researcher (UNSW 2022, WSU 2023)"
+    description: "AusTraits"
+    github: "dcol2804"
+    twitter: "davedoesscience"
+    photo: "people/Coleman.jpg"
+
+  - saras:
+    name:
+      first: "Dr Saras"
+      last: "Windecker"
+    title: "Postdoctoral fellow (Uni Melb)"
+    description: "Trait-based species distributions"
+    website: "smwindecker.com"
+    github: "smwindecker"
+    twitter: "smwindecker"
+    orcid: "0000-0002-4870-8353"
+    cv: "https://www.smwindecker.com/files/cv.pdf"
+    photo: "people/Windecker.jpg"
+    
   - lily:
     name:
       first: "Lily"
       last: "Dun"
-    title: "Research assistant (2021-22); Honours Student (2021)"
-    description: "Floral traits, Competition for light"
+    title: "Research assistant (2021-22) | Honours Student (2021)"
+    description: "Floral traits | Competition for light"
     twitter: "@lilydun3"
     photo: "people/Dun.jpg"
     linkedin: "lily-dun-b2691718b"
@@ -18,20 +111,12 @@ alumni:
     description: "Improving the plant model"
     github: "devmitch"
     photo: "people/Henry.jpg"
-    
-  - WillMagney:
-    name:
-      first: "Willem"
-      last: "Magney"
-    title: "Honours Student (2021-22)"
-    description: "Gradients in Mulga traits"
-    photo: "people/Magney.jpg"
 
   - dony:
     name:
       first: "Dony"
       last: "Indiarto"
-    title: "PhD Candidate (2018-22)"
+    title: "PhD candidate (2018-22)"
     description: "Plant functional traits and species range shifts"
     github: "dindiarto"
     twitter: "indiartd"
@@ -42,7 +127,7 @@ alumni:
     name:
       first: "Charlie"
       last: "Hinchliffe"
-    title: "PhD Candidate (2018-22)"
+    title: "PhD candidate (2018-22)"
     description: "Community ecology, ecosystem processes, and population dynamics of fish and zooplankton in the aquatic environment."
     github: "charliehinchliffe"
     googlescholar: "FP-5KsgAAAAJ"
@@ -52,7 +137,7 @@ alumni:
     name:
       first: "Gary"
       last: "Truong"
-    title: "Project Officer (2021-22)"
+    title: "Project officer (2021-22)"
     description: "AusTraits"
     github: "GaryTruong"
     twitter: "GaryTruong16"
@@ -89,7 +174,7 @@ alumni:
     name:
       first: "Fabrice"
       last: "Samonte"
-    title: "Intern & Research Assistant (2019-20)"
+    title: "Research assistant (2019-20)"
     description: "Global forest height & extending datastorr"
     github: "FabriceSamonte"
     photo: "people/Samonte.jpg"
@@ -98,7 +183,7 @@ alumni:
     name:
       first: "Caitlin"
       last: "Baxter"
-    title: "Research Assistant (2019-20)"
+    title: "Research assistant (2019-20)"
     description: "Compiling AusTraits - a data compilation on traits of Australian plants."
     github: "CaitlinB"
     photo: "people/Baxter.jpg"
@@ -119,7 +204,7 @@ alumni:
     name:
       first: "Dr Emma"
       last: "Gray"
-    title: "PhD Candidate (2013-17)"
+    title: "PhD candidate (2013-17)"
     description: "Growth rates and functional traits of tropical rainforest and savanna species"
     photo: "people/Gray.jpg"
   
@@ -127,7 +212,7 @@ alumni:
     name:
       first: "Dr James"
       last: "Camac"
-    title: "Postdoctoral Fellow (2013-16)"
+    title: "Postdoctoral fellow (2013-16)"
     description: "Partitioning growth-dependent and growth-independent causes of tree mortality"
     homepage: "https://jscamacresearch.wordpress.com"
     twitter: "jscamac"
@@ -139,7 +224,7 @@ alumni:
     name:
       first: "Dr Anaïs"
       last: "Gibert"
-    title: "Postdoctoral Fellow (2013-16)"
+    title: "Postdoctoral fellow (2013-16)"
     description: "Meta-analysis testing how traits impact plant growth"
     researchgate: "Anais_Gibert"
     github: "AnaisGibert"
@@ -152,7 +237,7 @@ alumni:
     name:
       first: "Dr Rich"
       last: "FitzJohn"
-    title: "Postdoctoral Fellow (2013-16)"
+    title: "Postdoctoral fellow (2013-16)"
     description: "Completely overhauled our software and workflows."
     website: "https://richfitz.github.io"
     github: "richfitz"
@@ -164,7 +249,7 @@ alumni:
     name:
       first: "Dr Georges"
       last: "Kunstler"
-    title: "Visiting Researcher (2013-15)"
+    title: "Visiting researcher (2013-15)"
     description: "Global analysis- effect of traits on competition"
     website: "https://kunstler.github.io"
     github: "kunstler"

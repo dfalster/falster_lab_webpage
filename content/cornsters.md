@@ -18,15 +18,28 @@ We meet each week to discuss the latest research and ideas in ecology and evolut
 
 ## Past lab outings
 
+### 2022 Christmas bushwalk
+
+To celebrate the end of 2022, the lab went for a bush walk near Springwood in the Blue Mountains, about 50km west of UNSW.  
+
+{{< figure src="/img/lab/2022_christmas.jpeg" height="480" width="640" >}}
+
+### 2022 ESA
+
+The Cornsters lab at ESA 2022! 
+
+{{< figure src="/img/lab/2022_ESA.jpeg" height="480" width="640" >}}
+
+
 ### 2019 Christmas bushwalk
 
 To celebrate the end of 2019, the lab went for a bush walk in [Botany Bay National Park](https://www.google.com/maps/place/Botany+Bay+National+Park/@-33.9831423,151.2489387,15.87z/data=!4m5!3m4!1s0x6b12b5ae86ad0895:0x8c7debb3a8a06e6!8m2!3d-33.9927325!4d151.2493908), just 10km south of UNSW.  
 
-{{< figure src="/img/christmas_outing.jpg" height="480" width="640" >}}
+{{< figure src="/img/lab/2019_christmas.jpg" height="480" width="640" >}}
 
 
 ### 2019 writing retreat 
 
 In May 2019, we were hosted by Cornster Casey Gibson in her home town of Wingello, for a productive 2-day writing retreat. In amongst the writing, we enjoyed some tasty mushrooms, picked in [Wingello State Forest](https://www.google.com/maps/place/Wingello+State+Forest/@-34.7028886,150.0424295,11z/data=!4m13!1m7!3m6!1s0x6b13f49e42f1f331:0x40609b490439260!2sWingello+NSW+2579!3b1!8m2!3d-34.6900752!4d150.1551898!3m4!1s0x6b13f53c8593318d:0xf0609b573ff0b40!8m2!3d-34.733078!4d150.1817751). 
 
-{{< figure src="/img/mushroom_harvest.JPG" height="480" width="640" >}}
+{{< figure src="/img/lab/2019_mushrooms.jpg" height="480" width="640" >}}
