@@ -90,3 +90,13 @@ members:
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
+    
+  - jack: 
+    name: 
+      first: "Jack"
+      last: "Thornton"
+    title: "Undergraduate (2021-)"
+    description: "Size-structured kangaroo population modeling"
+    linkedin: "jack-thornton-011475293"
+    photo: "people/Thornton.jpg"
+    
