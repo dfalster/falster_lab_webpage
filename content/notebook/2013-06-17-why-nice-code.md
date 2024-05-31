@@ -125,7 +125,6 @@ guide](https://google-styleguide.googlecode.com/svn/trunk/google-r-style.html).
 
 ### Nice code is reliable, i.e. bug free
 
-{{< tweet 322374461212995584 >}}
 
 The computer does exactly what you tell it to. If there is a problem in your code, it's most likely you put it there. How certain
 are you that your code is error free? More than once I have reached a state
