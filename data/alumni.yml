@@ -1,18 +1,37 @@
 alumni:
 
-  - sophie:
+
+  - rebecca:
     name:
-      first: "Sophie"
-      last: "Yang"
-    title: "Research assistant (2022-23) | Honours student (2021-22)"
-    description: "AusTraits | Fire response strategies in Australian plants"
-    email: "sophie.yang917@gmail.com"
-    twitter: "sophieyang_"
-    inaturalist: "sophiey_"
-    ebird: "MTYwNjA3NQ"
-    linkedin: "sophie-yang-7b703715b"
-    github: "yangsophieee"
-    photo: "people/Yang.jpg"
+      first: "Rebecca"
+      last: "Stolper"
+    title: "MPhil candidate (2020-23)"
+    description: "Trait based models of self thinning"
+    researchgate: Rebecca_Stolper
+    twitter: ""
+    orcid: ""
+    linkedin: "rebecca-stolper-718b90a7"
+    googlescholar: ""
+    photo: "people/Stolper.jpg"
+
+
+  - jack: 
+    name: 
+      first: "Jack"
+      last: "Thornton"
+    title: "Undergraduate (2024)"
+    description: "Size-structured kangaroo population modeling"
+    linkedin: "jack-thornton-011475293"
+    photo: "people/Thornton.jpg"
+
+  - shay:
+    name:
+      first: "Shay"
+      last: "Hirani"
+    title: "Undergraduate (2024)"
+    description: "Size-structured kangaroo population modelling"
+    linkedin: "shay-hirani-424654273"
+    photo: "people/Hirani.jpeg"
 
   - GillianK:
     name:
@@ -35,15 +54,6 @@ alumni:
     linkedin: "elijahmagistrado"
     photo: "people/Magistrado.jpg"
     
-  - Andrew:
-    name:
-      first: "Andrew"
-      last: "O'Reilly-Nugent"
-    title: "P/T Postdoctoral fellow (2020-2022)"
-    description: "Carbon farming projects. Extending plant model."
-    github: aornugent
-    googlescholar: z2C996cAAAAJ
-    photo: "people/OReilly-Nugent.jpg"
 
   - phil:
     name:

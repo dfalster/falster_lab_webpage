@@ -20,7 +20,7 @@ members:
       first: "Dr Elizabeth"
       last: "Wenk"
     title: "Postdoctoral fellow (2010-)"
-    description: "AusTraits project manager. Writes hiking guides for Sierra Nevada."
+    description: "AusTraits project manager. Trait big data. Reproductive startegies. Hiking guides for Sierra Nevada."
     github: "ehwenk"
     photo: "people/Wenk.jpg"
     amazon: "Elizabeth-Wenk/e/B004R0TMBC"
@@ -31,7 +31,7 @@ members:
       first: "Fonti"
       last: "Kar"
     title: "Postdoctoral fellow (2020-)"
-    description: "R package development"
+    description: "Building R packages at UNSW Faculty of Science."
     wesbite: "https://fontikar.wordpress.com/"
     github: fontikar
     twitter: fonti_kar
@@ -44,7 +44,7 @@ members:
     name:
       first: "Isaac"
       last: "Towers"
-    title: "Postdoctoral fellow (2020-)"
+    title: "Postdoctoral fellow (2025-, 2020-23)"
     description: "Trait based models of vegetation structure and dynamics."
     github: itowers1
     researchgate: Isaac-Towers
@@ -67,20 +67,6 @@ members:
     linkedin: "fiona-robinson"
     photo: "people/Robinson.jpg"
 
-  - rebecca:
-    name:
-      first: "Rebecca"
-      last: "Stolper"
-    title: "MPhil candidate (2020-23)"
-    description: "Trait based models of self thinning"
-    researchgate: Rebecca_Stolper
-    twitter: ""
-    orcid: ""
-    linkedin: "rebecca-stolper-718b90a7"
-    googlescholar: ""
-    photo: "people/Stolper.jpg"
-
-
   - ashleigh:
     name:
       first: "Ashleigh"
@@ -90,20 +76,45 @@ members:
     twitter: "@ash_m_ford"
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
-    
-  - jack: 
-    name: 
-      first: "Jack"
-      last: "Thornton"
-    title: "Undergraduate (2021-)"
-    description: "Size-structured kangaroo population modeling"
-    linkedin: "jack-thornton-011475293"
-    photo: "people/Thornton.jpg"
-  - shay:
+
+  - sophie:
     name:
-      first: "Shay"
-      last: "Hirani"
-    title: "Undergraduate (2022-)"
-    description: "Size-structured kangaroo population modelling"
-    linkedin: "shay-hirani-424654273"
-    photo: "people/Hirani.jpeg"
+      first: "Sophie"
+      last: "Yang"
+    title: "PhD (2024-) | RA (2022-23) | Honours student (2021-22)"
+    description: "Thermal gardients | AusTraits | Fire response strategies"
+    email: "sophie.yang@unsw.edu.au"
+    twitter: "sophieyang_"
+    inaturalist: "sophiey_"
+    ebird: "MTYwNjA3NQ"
+    linkedin: "sophie-yang-7b703715b"
+    github: "yangsophieee"
+    photo: "people/Yang.jpg"
+
+  - Zoe:
+    name:
+      first: "Zoe"
+      last: "Ball"
+    title: "Honours student (2024-25)"
+    description: "Vessel properties in Mulga"
+    photo: "people/Ball.jpg"
+    linkedin: "zoe-ball-600731254/"
+
+  - Toby:
+    name:
+      first: "Toby"
+      last: "Jin"
+    title: "Undergraduate (2024)"
+    description: "Effect of wind on tree height"
+    linkedin: "toby-jin-6532ab200"
+    photo: "people/Jin.jpeg"
+
+  - Andrew:
+    name:
+      first: "Andrew"
+      last: "O'Reilly-Nugent"
+    title: "Adjunct (2024-) | P/T Postdoctoral fellow (2020-2022)"
+    description: "Carbon regeneration projects. Extending plant model."
+    github: aornugent
+    googlescholar: z2C996cAAAAJ
+    photo: "people/OReilly-Nugent.jpg"
