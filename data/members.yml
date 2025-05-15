@@ -118,3 +118,14 @@ members:
     github: aornugent
     googlescholar: z2C996cAAAAJ
     photo: "people/OReilly-Nugent.jpg"
+  
+  - Eve:
+    name:
+      first: "Eve"
+      last: "Miles"
+    title: "Undergraduate (2025)"
+    description: "Austraits contributor"
+    github: "evaluate09"
+    linkedin: "eve-miles-05930a241"
+    orcid: "0009-0008-4168-8645"
+    photo: "people/Miles.jpg"
