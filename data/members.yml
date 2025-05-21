@@ -118,7 +118,16 @@ members:
     github: aornugent
     googlescholar: z2C996cAAAAJ
     photo: "people/OReilly-Nugent.jpg"
-  
+
+  - shay:
+    name:
+      first: "Shay"
+      last: "Hirani"
+    title: "Undergraduate (2024)"
+    description: "Size-structured kangaroo population modelling"
+    linkedin: "shay-hirani-424654273"
+    photo: "people/Hirani.jpeg"
+
   - Eve:
     name:
       first: "Eve"
@@ -129,3 +138,12 @@ members:
     linkedin: "eve-miles-05930a241"
     orcid: "0009-0008-4168-8645"
     photo: "people/Miles.jpg"
+
+  - Jugo:
+    name:
+      first: "Jugo"
+      last: "Ilic"
+    title: "Adjunct (2025-)"
+    description: "Wood anatomy"
+    linkedin: "jugo-ilic-42171345"
+    photo: "people/Ilic.jpg"

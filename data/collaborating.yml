@@ -13,7 +13,7 @@ collaborating:
       first: "Helen"
       last: "Crisp"
     title: "PhD candidate (lead supervisor: K Moseby; 2023-)"
-    description: "Assessing and improving the long-term sustainability of threatened species reintroduction programs"
+    description: "Long-term sustainability of threatened species reintroduction programs"
     photo: "people/Crisp.jpg"
     linkedin: "helencrisp"
 
@@ -22,7 +22,16 @@ collaborating:
       first: "Lyra"
       last: "Huang"
     title: "PhD candidate (lead supervisor: T Rogers; 2023-)"
-    description: "Distributions of Dugongs"
+    description: "Population dynamics of Dugongs"
     photo: "people/Huang.jpg"
     twitter: "sleepyylyra"
     googlescholar: "SiWdjKcAAAAJ"
+
+  - Cass:
+    name:
+      first: "Cassandra"
+      last: "Harvey"
+    title: "PhD candidate (lead supervisor: K Moseby; 2025-)"
+    description: "Population dynamics of Western quolls"
+    photo: "people/Harvey.jpg"
+  
