@@ -7,8 +7,8 @@ disqusShortname = "dfalster"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 publishDir = "public"
 enableGitInfo = true
-paginate = 100
-
+pagination.pagerSize = 100
+ignoreLogs = ['warning-goldmark-raw-html']
 [permalinks]
     notebook = "/:year-:month-:day-:slug/"
 

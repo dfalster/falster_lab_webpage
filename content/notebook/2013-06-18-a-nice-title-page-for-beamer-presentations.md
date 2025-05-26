@@ -47,8 +47,6 @@ background, and dropping the beamer title and navigation symbols.
 
 # Overlay a text box
 
-{{< tweet 342025944241958912 >}}
-
 This seems like it should be relatively simple, but my first search only
 uncovered large slabs of code. And my plea for help on twitter did not get any
 response.

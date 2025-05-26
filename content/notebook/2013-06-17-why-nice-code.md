@@ -57,8 +57,8 @@ discussing the qualities of nice code and teaching you good coding habits.
 Certainly no one is teaching you these skills in your standard biology research
 department.
 
-{{< tweet 306854385076543488 >}}
-
+{{< figure src="../../../../notebook/2013-06-17-why-i-want-to-write-nice-r-code/tweet1.png" width="500">}}
+<!-- {{< tweet 306854385076543488 >}} -->
 
 Observing how colleagues were struggling with their code, we
 ([Rich FitzJohn](https://www.zoology.ubc.ca/~fitzjohn/) and
@@ -85,7 +85,9 @@ has come to dominate biological research. We are not experts, but have more
 experience than many biologists. Hence the nice R code blog.
 
 
-{{< tweet 312438921059520512 >}}
+<!-- {{< tweet 312438921059520512 >}} -->
+
+{{< figure src="../../../../notebook/2013-06-17-why-i-want-to-write-nice-r-code/tweet2.png" width="500">}}
 
 
 ## Key elements of nice R code
@@ -146,8 +148,9 @@ colleagues, during review process, or in repositories such as github.
 - The more *readable* your code is, the less likely it is to contain
 errors.
 
-{{< tweet 312628852558032896 >}}
+<!-- {{< tweet 312628852558032896 >}} -->
 
+{{< figure src="../../../../notebook/2013-06-17-why-i-want-to-write-nice-r-code/tweet3.png" width="500">}}
 
 ### Nice code runs quickly and is therefore a pleasure to use
 
