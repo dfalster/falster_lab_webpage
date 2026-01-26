@@ -1,5 +1,55 @@
 alumni:
 
+  - fiona:
+    name:
+      first: "Fiona"
+      last: "Robinson"
+    title: "PhD candidate (2021-25)"
+    description: "Dynamics in Mulga"
+    linkedin: "fiona-robinson"
+    photo: "people/Robinson.jpg"
+
+  - theresa:
+    name:
+      first: "Theresa"
+      last: "O'Brien"
+    title: "PhD candidate (2021-25)"
+    description: "Fitting longitudinal models of tree growth."
+    photo: "people/O'Brien.jpg"
+ 
+  - fonti:
+    name:
+      first: "Fonti"
+      last: "Kar"
+    title: "Postdoctoral fellow (2020-25)"
+    description: "Building R packages at UNSW Faculty of Science."
+    wesbite: "https://fontikar.wordpress.com/"
+    github: fontikar
+    twitter: fonti_kar
+    linkedin: "fonti-kar"
+    googlescholar: 4hGqp6sAAAAJ
+    researchgate: Fonti_Kar
+    photo: "people/Kar.jpg"
+
+  - shay:
+    name:
+      first: "Shay"
+      last: "Hirani"
+    title: "Undergraduate (2024)"
+    description: "Size-structured kangaroo population modelling"
+    linkedin: "shay-hirani-424654273"
+    photo: "people/Hirani.jpeg"
+
+  - Ray:
+    name:
+      first: "Ray"
+      last: "Miles"
+    title: "Undergraduate (2025)"
+    description: "AusTraits portal development"
+    github: "evaluate09"
+    linkedin: "eve-miles-05930a241"
+    orcid: "0009-0008-4168-8645"
+    photo: "people/Miles.jpg"
 
   - rebecca:
     name:
@@ -13,7 +63,6 @@ alumni:
     linkedin: "rebecca-stolper-718b90a7"
     googlescholar: ""
     photo: "people/Stolper.jpg"
-
 
   - jack: 
     name: 
@@ -34,17 +83,6 @@ alumni:
     twitter: "GillianKowalick"
     inaturalist: "2556733"
     photo: "people/Kowalick.jpg"
-
-  - ElijahM:
-    name:
-      first: "Elijah"
-      last: "Magistrado"
-    title: "Honours student (2023)"
-    description: "Vessel size in Australian plants"
-    github: "elijahmagistrado"
-    linkedin: "elijahmagistrado"
-    photo: "people/Magistrado.jpg"
-    
 
   - phil:
     name:

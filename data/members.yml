@@ -25,20 +25,6 @@ members:
     photo: "people/Wenk.jpg"
     amazon: "Elizabeth-Wenk/e/B004R0TMBC"
     orcid: "0000-0001-5640-5910"
-    
-  - fonti:
-    name:
-      first: "Fonti"
-      last: "Kar"
-    title: "Postdoctoral fellow (2020-)"
-    description: "Building R packages at UNSW Faculty of Science."
-    wesbite: "https://fontikar.wordpress.com/"
-    github: fontikar
-    twitter: fonti_kar
-    linkedin: "fonti-kar"
-    googlescholar: 4hGqp6sAAAAJ
-    researchgate: Fonti_Kar
-    photo: "people/Kar.jpg"
 
   - isaac:
     name:
@@ -49,23 +35,6 @@ members:
     github: itowers1
     researchgate: Isaac-Towers
     photo: "people/Towers.jpg"
-
-  - theresa:
-    name:
-      first: "Theresa"
-      last: "O'Brien"
-    title: "PhD candidate (2021-)"
-    description: "Fitting longitudinal models of tree growth."
-    photo: "people/O'Brien.jpg"
-
-  - fiona:
-    name:
-      first: "Fiona"
-      last: "Robinson"
-    title: "PhD candidate (2021-)"
-    description: "Climate change impact on carbon farming projects"
-    linkedin: "fiona-robinson"
-    photo: "people/Robinson.jpg"
 
   - ashleigh:
     name:
@@ -82,8 +51,7 @@ members:
       first: "Sophie"
       last: "Yang"
     title: "PhD (2024-) | RA (2022-23) | Honours student (2021-22)"
-    description: "Thermal gardients | AusTraits | Fire response strategies"
-    email: "sophie.yang@unsw.edu.au"
+    description: "Thermal gradients | AusTraits | Fire response strategies"
     twitter: "sophieyang_"
     inaturalist: "sophiey_"
     ebird: "MTYwNjA3NQ"
@@ -95,8 +63,8 @@ members:
     name:
       first: "Zoe"
       last: "Ball"
-    title: "Honours student (2024-25)"
-    description: "Vessel properties in Mulga"
+    title: "RA (2025-) |Honours student (2024-25)"
+    description: "Mulga plots | Vessel properties in Mulga"
     photo: "people/Ball.jpg"
     linkedin: "zoe-ball-600731254/"
 
@@ -104,11 +72,41 @@ members:
     name:
       first: "Toby"
       last: "Jin"
-    title: "Undergraduate (2024)"
+    title: "Honours student (2025) | RA (2024-25) | Undergraduate (2024)"
     description: "Effect of wind on tree height"
     linkedin: "toby-jin-6532ab200"
     photo: "people/Jin.jpeg"
 
+  - FinnC:
+    name:
+      first: "Finn"
+      last: "Clifton"
+    title: "MPhil (2024-)"
+    description: "Allometry of Mulga recruits"
+    github: ""
+    linkedin: ""
+    photo: "people/Clifton.jpg"
+
+  - ElijahM:
+    name:
+      first: "Elijah"
+      last: "Magistrado"
+    title: "PhD (2025-) | Honours student (2023)"
+    description: "Diameter growth of Mulga | Vessel size in Australian plants"
+    github: "elijahmagistrado"
+    linkedin: "elijahmagistrado"
+    photo: "people/Magistrado.jpg"
+
+  - Pushkal:
+    name:
+      first: "Pushkal"
+      last: "Garg"
+    title: "RA (2025-)"
+    description: "AusTraits data portal development"
+    github: "Pushkalgithub"
+    linkedin: "pushkal-garg-650762233/"
+    photo: "people/Garg.jpg"
+    
   - Andrew:
     name:
       first: "Andrew"
@@ -118,26 +116,6 @@ members:
     github: aornugent
     googlescholar: z2C996cAAAAJ
     photo: "people/OReilly-Nugent.jpg"
-
-  - shay:
-    name:
-      first: "Shay"
-      last: "Hirani"
-    title: "Undergraduate (2024)"
-    description: "Size-structured kangaroo population modelling"
-    linkedin: "shay-hirani-424654273"
-    photo: "people/Hirani.jpeg"
-
-  - Eve:
-    name:
-      first: "Eve"
-      last: "Miles"
-    title: "Undergraduate (2025-)"
-    description: "Austraits contributor"
-    github: "evaluate09"
-    linkedin: "eve-miles-05930a241"
-    orcid: "0009-0008-4168-8645"
-    photo: "people/Miles.jpg"
 
   - Jugo:
     name:
