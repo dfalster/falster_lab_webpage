@@ -8,6 +8,7 @@ alumni:
     description: "Dynamics in Mulga"
     linkedin: "fiona-robinson"
     photo: "people/Robinson.jpg"
+    github: ""
 
   - theresa:
     name:
@@ -16,7 +17,8 @@ alumni:
     title: "PhD candidate (2021-25)"
     description: "Fitting longitudinal models of tree growth."
     photo: "people/O'Brien.jpg"
- 
+    github: Tess-LaCoil
+
   - fonti:
     name:
       first: "Fonti"
@@ -30,6 +32,15 @@ alumni:
     googlescholar: 4hGqp6sAAAAJ
     researchgate: Fonti_Kar
     photo: "people/Kar.jpg"
+
+  - Helen:
+    name:
+      first: "Helen"
+      last: "Crisp"
+    title: "PhD candidate (lead supervisor: K Moseby; 2023-25)"
+    description: "Long-term sustainability of threatened species reintroduction programs"
+    photo: "people/Crisp.jpg"
+    linkedin: "helencrisp"
 
   - shay:
     name:

@@ -43,6 +43,7 @@ members:
     title: "PhD candidate (2024-) | Research assistant (2022) | Honours student (2021)"
     description: "Growth rates of Mulga via dendrochronology"
     twitter: "@ash_m_ford"
+    github: Ash-michelle
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
 
@@ -66,6 +67,7 @@ members:
     title: "RA (2025-) |Honours student (2024-25)"
     description: "Mulga plots | Vessel properties in Mulga"
     photo: "people/Ball.jpg"
+    github: ""
     linkedin: "zoe-ball-600731254/"
 
   - Toby:
@@ -74,6 +76,7 @@ members:
       last: "Jin"
     title: "Honours student (2025) | RA (2024-25) | Undergraduate (2024)"
     description: "Effect of wind on tree height"
+    github: ""
     linkedin: "toby-jin-6532ab200"
     photo: "people/Jin.jpeg"
 
