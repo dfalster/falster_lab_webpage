@@ -9,16 +9,12 @@ author: Daniel Falster
 
 We are a vibrant lab with a focus on applying the latest computational methods to understanding species demography (especially size-structured dynamics), species distributions, and ecosystem structure and dynamics (especially biomass and carbon) from a process-based perspective. Potential areas of study include
 
-- Understanding the distribution of Eucalypts in relation to traits,
 - Understanding what drives trees to grow really tall,
 - Size-structured population dynamics, including in vegetation and other systems; in particular understanding how competition for resources shapes species traits,
 - Estimating and modelling the potential for carbon sequestration in vegetation, particularly under future climates.
 
 Below are details on opportunities for [open positions](#open), potentials for [PhD or Msc](#HDR) and [honours](#honours) projects. Past opportunities are listed [here](/categories/opportunities/).
 
-## Open positions {#open}
-
-There are no positions currently open.
 
 ## PhD and MSc students {#HDR}
 
@@ -26,7 +22,7 @@ I am interested in supervising students seeking to apply quantitative methods to
 
 Australian & NZ students must be competitive for an [Australian Government Research Training Program (RTP) Scholarship](https://research.unsw.edu.au/domestic-research-scholarships). Successful applicants generally have an Honours I mark or existing publications.
 
-UNSW can also accept international students, but competition for scholarships is intense. Successful students generally have an applicants generally have a combination of excellent grades, existing publications, and/or related experience.
+Unfortunately, due to limited pathways for stipends, I can only consider international students who have independent funding (for example, a scholarship from their home country or another external source).
 
 ## Honours students {#honours}
 

@@ -1,0 +1,102 @@
+---
+type: page
+layout: standard
+title: Research
+pagewidth: 11
+---
+
+<p class="lead">Walking through any forest, you are struck by the sheer variety of coexisting plant forms. All plants compete for the same basic resources — light, water, nutrients — a struggle that drives an evolutionary arms race for light, yet sustains rather than erodes their extraordinary diversity. Our research sets out to predict <em>which plants grow where, and why</em>, from ecological and evolutionary first principles, working at the intersection of trait ecology, community assembly, and systems modelling.</p>
+
+<p>Our work spans four connected themes: the open data infrastructure that makes new discoveries possible, the models that predict how vegetation grows and evolves, the empirical study of trade-offs in plant function, and an applied program forecasting the dynamics of Mulga woodlands.</p>
+
+<div class="section text-center">
+  <div class="row">
+
+  <div class="col-md-3">
+    <a href="#data-infrastructure">
+      <div class="card">
+        <img class="card-img-top" src="/img/angophora.jpg">
+        <div class="card-body">
+        <h4 class="card-title">Research data infrastructure</h4>
+        <p class="card-text">Building AusTraits and a family of open tools for the traits of Australia's plants.</p>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-md-3">
+    <a href="#modelling">
+      <div class="card">
+        <img class="card-img-top" src="/img/plant-patch.png">
+        <div class="card-body">
+        <h4 class="card-title">Trait-based modelling</h4>
+        <p class="card-text">Modelling the ecological and evolutionary dynamics of vegetation from species' traits.</p>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-md-3">
+    <a href="#trade-offs">
+      <div class="card">
+        <img class="card-img-top" src="/img/MtnAsh.jpg">
+        <div class="card-body">
+        <h4 class="card-title">Trade-offs in plant function</h4>
+        <p class="card-text">Empirical studies of how trade-offs shape plant strategies and maintain diversity.</p>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-md-3">
+    <a href="#mulga">
+      <div class="card">
+        <img class="card-img-top" src="/img/wallaby.jpg">
+        <div class="card-body">
+        <h4 class="card-title">Mulga dynamics</h4>
+        <p class="card-text">Forecasting long-term growth and carbon in Australia's Mulga woodlands.</p>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  </div>
+</div>
+
+<h2 id="data-infrastructure">Building research data infrastructure — AusTraits</h2>
+
+<p>Modern ecology is a big-data science, but its data are scattered across thousands of studies in incompatible formats. We build the open infrastructure that brings them together. <a href="https://austraits.org">AusTraits</a> is Australia's first and largest open plant-trait database — around 1.8 million records spanning ~500 traits, 30,000+ taxa, and 400+ primary sources, contributed by hundreds of researchers. The Australian Research Data Commons has described it as an internationally recognised, gold-standard database and nationally significant data infrastructure.</p>
+
+<p>AusTraits is used in hundreds of published studies and underpins more than 30 statutory federal Conservation Advices under the EPBC Act. It is drawn on by the Department of Climate Change, Energy, the Environment and Water, the NSW Government, and Bush Heritage Australia, and informed species prioritisation following the 2019–20 bushfires.</p>
+
+<p>Around AusTraits we have built a family of reusable open tools:</p>
+
+<ul>
+  <li><strong><code>traits.build</code></strong> — the machinery behind AusTraits, packaged so other groups can build their own harmonised databases (adopted in Melbourne, Western Sydney, a Malaysian-flora compilation, and by government).</li>
+  <li><strong><code>APCalign</code></strong> — matches messy plant names to the Australian Plant Census; enabled the new traits tab on the Atlas of Living Australia.</li>
+  <li><strong>AusTraits Plant Dictionary (APD)</strong> — the world's largest standard plant-trait vocabulary, being scoped for adoption by the global TRY database.</li>
+  <li><strong>AusTraits data portal</strong> — point-and-click access for herbaria, government, and the public.</li>
+  <li><strong>Open Traits Network</strong> — a global initiative we co-founded to coordinate trait data across taxa (Gallagher <em>et al.</em> 2020, <em>Nature Ecology &amp; Evolution</em>).</li>
+</ul>
+
+<p>Software and databases are developed openly at <a href="https://github.com/traitecoevo">github.com/traitecoevo</a>.</p>
+
+<h2 id="modelling">Modelling trait-based ecological &amp; evolutionary dynamics</h2>
+
+<p>To predict how vegetation grows, changes, and evolves, we build process-based models grounded in the traits of individual plants. Our <a href="https://traitecoevo.github.io/plant/"><code>plant</code></a> model simulates how forests grow and change from the traits of their trees (Falster <em>et al.</em> 2016), and provides the basis for both fundamental questions about vegetation dynamics and the applied carbon-forecasting work below. Companion tools extend this program: <a href="https://github.com/traitecoevo/regnans"><code>regnans</code></a> simulates evolutionary change and helps explain the extreme height of Australia's giant Eucalypts, <a href="https://github.com/traitecoevo/odelia"><code>odelia</code></a> extends our modelling toolkit, and <a href="https://github.com/traitecoevo/overstorey"><code>overstorey</code></a> is a field guide to the <code>plant</code> model.</p>
+
+<p>This modelling rests on foundational theory developed with collaborators: functional traits have globally consistent effects on competition, shown using data from more than three million trees (Kunstler <em>et al.</em> 2016, <em>Nature</em>); trade-offs in plant function allow diverse competitors to coexist and let us predict trait mixtures from first principles (Falster <em>et al.</em> 2017, <em>PNAS</em>); and functional traits shape plant growth and shade tolerance across diverse species (Falster <em>et al.</em> 2018, <em>PNAS</em>).</p>
+
+<h2 id="trade-offs">Understanding trade-offs in plant function</h2>
+
+<p>Why can't a single plant strategy dominate everywhere? Because every advantage comes at a cost. Our empirical work quantifies these trade-offs and shows how they maintain functional diversity. This research helped drive the global shift toward trait-based ecology — comparing plant strategies through a small number of leading traits (Westoby <em>et al.</em> 2002; Falster <em>et al.</em> 2003; Zanne <em>et al.</em> 2010) — and continues to reveal how traits influence the growth (Falster <em>et al.</em> 2011, 2018) and mortality (Camac <em>et al.</em> 2018) of plants.</p>
+
+<p>Increasingly we test these ideas at continental scale using AusTraits: predictable shifts in traits along climate gradients (Towers <em>et al.</em> 2024), the distribution of fire-response traits across the continent (Yang <em>et al.</em> 2025), and patterns of functional diversity (Andrew <em>et al.</em> 2021, 2025).</p>
+
+<h2 id="mulga">Mulga dynamics</h2>
+
+<p>Australia's arid and semi-arid rangelands, dominated by Mulga (<em>Acacia aneura</em> and relatives), cover vast areas and are central to the country's carbon-farming projects — yet how these slow-growing woodlands actually grow and store carbon over decades remains poorly understood. Anchored by a $1.24M ARC Linkage grant (LP230100049) with carbon-farming company Climate Friendly, our program forecasts long-term tree growth and carbon in these systems.</p>
+
+<p>The work combines field measurement, dating, and modelling. We date Mulga growth using dendrochronology and radiocarbon at the UNSW Chronos and ANSTO facilities (Ashleigh Ford, and PhD work led by Fiona Robinson); study vessel and hydraulic architecture (Zoe Ball, Isaac Towers, Elijah Magistrado); and model the allometry of recruits (Finn Clifton). A 2026 NSW Smart Sensing Network grant extends this to space-enabled forest monitoring, with field sites including the Fowlers Gap research station.</p>
+
+<p><a href="/members">Meet the people</a> behind this work, or see <a href="/bio">Daniel's bio &amp; CV</a> for the full publication and grant record.</p>
