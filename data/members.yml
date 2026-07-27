@@ -41,10 +41,17 @@ members:
       last: "Ford"
     title: "PhD candidate (2024-) | Research assistant (2022) | Honours student (2021)"
     description: "Growth rates of Mulga via dendrochronology"
-    twitter: "@ash_m_ford"
     github: Ash-michelle
     linkedin: "ashleigh-ford-28185b148"
     photo: "people/Ford.jpg"
+
+  - WillMagney:
+    name:
+      first: "Willem"
+      last: "Magney"
+    title: "PhD (joint supervised with A Fisher, 2024-) | Honours student (2021-22)"
+    description: "Tree biomass & LIDAR | Gradients in Mulga traits"
+    photo: "people/Magney.jpg"
 
   - sophie:
     name:
@@ -52,7 +59,6 @@ members:
       last: "Yang"
     title: "PhD (2024-) | RA (2022-23) | Honours student (2021-22)"
     description: "Thermal gradients | AusTraits | Fire response strategies"
-    twitter: "sophieyang_"
     inaturalist: "sophiey_"
     ebird: "MTYwNjA3NQ"
     linkedin: "sophie-yang-7b703715b"
@@ -108,7 +114,7 @@ members:
     github: "Pushkalgithub"
     linkedin: "pushkal-garg-650762233/"
     photo: "people/Garg.jpg"
-    
+
   - Andrew:
     name:
       first: "Andrew"

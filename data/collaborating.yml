@@ -1,13 +1,5 @@
 collaborating:
 
-  - WillMagney:
-    name:
-      first: "Willem"
-      last: "Magney"
-    title: "PhD (lead supervisor: A Fisher, 2024-) | Honours student (2021-22)"
-    description: "Tree biomass & LIDAR | Gradients in Mulga traits"
-    photo: "people/Magney.jpg"
-
   - Lyra:
     name:
       first: "Lyra"
@@ -15,6 +7,22 @@ collaborating:
     title: "PhD candidate (lead supervisor: T Rogers; 2023-)"
     description: "Population dynamics of Dugongs"
     photo: "people/Huang.jpg"
-    twitter: "sleepyylyra"
     googlescholar: "SiWdjKcAAAAJ"
   
+  - Emeli:
+    name:
+      first: "Emeli"
+      last: "Gomes"
+    title: "Visiting PhD student (2026) | Universidade Federal de Santa Catarina, Brazil"
+    description: "Secondary rainforest succession"
+    photo: "people/Gomes.jpg"
+    github: "Emeli19"
+
+  - JuanMartinez:
+    name:
+      first: "Juan Ignacio"
+      last: "Martínez"
+    title: "PhD candidate (2025-, lead supervisor: K Gedan) | George Washington University"
+    description: "Coastal forest responses to sea-level rise"
+    photo: "people/Martinez.jpg"
+
