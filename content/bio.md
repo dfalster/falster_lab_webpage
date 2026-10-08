@@ -23,7 +23,7 @@ See my [Research](/research) page for an overview of our four major research the
 
 **Citations**: > 22,900 total citations, > 1200 citations yr$^{-1}$, H-index of 47 [Google Scholar]; 33 papers cited more than 100 times.
 
-**Datasets**: I lead "[AusTraits](https://austraits.org): a curated plant trait database for the Australian flora" — now around 1.8 million records spanning ~500 traits and 30,000+ taxa, described by the Australian Research Data Commons as gold-standard, nationally significant data infrastructure. I have previously produced global compilations including the [Biomass and Allometry Database](https://github.com/dfalster/baad) and the [Coral Traits Database](https://coraltraits.org).
+**Datasets**: I co-lead "[AusTraits](https://austraits.org): a curated plant trait database for the Australian flora" — now around 1.8 million records spanning ~500 traits and 30,000+ taxa, described by the Australian Research Data Commons as gold-standard, nationally significant data infrastructure. I have previously produced global compilations including the [Biomass and Allometry Database](https://github.com/dfalster/baad) and the [Coral Traits Database](https://coraltraits.org).
 
 **Software**: I produce and openly share widely used software, including the [AusTraits](https://austraits.org) family of tools (`traits.build`, `APCalign`, the AusTraits Plant Dictionary), the statistical package [SMATR](https://cran.r-project.org/web/packages/smatr/index.html) (used in over 1000 studies), and the growth model [plant](https://traitecoevo.github.io/plant/).
 
