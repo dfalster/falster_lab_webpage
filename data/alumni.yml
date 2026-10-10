@@ -89,7 +89,7 @@ alumni:
       first: "Gillian"
       last: "Kowalick"
     title: "Research assistant (2023-) | Honours student (2022) | Intern (2021)"
-    description: "AusTraits | Vessel size of tall Euclaypts"
+    description: "AusTraits | Vessel size of tall Eucalypts"
     github: "GillianKowalick"
     twitter: "GillianKowalick"
     inaturalist: "2556733"
@@ -311,7 +311,7 @@ alumni:
 
   - Diego:
     name:
-      first: "Dr Deigo"
+      first: "Dr Diego"
       last: "Barneche"
     title: "Researcher assistant (2013-14)"
     description: "Biomass and allometry database"
