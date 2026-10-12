@@ -26,3 +26,12 @@ collaborating:
     description: "Coastal forest responses to sea-level rise"
     photo: "people/Martinez.jpg"
 
+  - MiaThompson:
+    name:
+      first: "Mia"
+      last: "Thompson"
+    title: "Honours student (2026, lead supervisor: N Jordan)"
+    description: "Energetic impact of kleptoparasitism on African wild dogs"
+    photo: "people/Thompson.jpg"
+    github: "miafthompson"
+    linkedin: "miathompsonunsw"
