@@ -17,7 +17,7 @@ Hi! My name is Daniel Falster. I am Associate Professor at the University of New
 
 Alongside these fundamental questions, we build [AusTraits](https://austraits.org) — national, open data infrastructure for the traits of Australia's plants — and apply our models to real-world climate problems such as carbon farming and forest regeneration. See our [Research](/research) page for an overview of the four themes.
 
-**Interested in PhD, Masters or Honours?** I am interested in supervising students seeking to apply quantitative methods to address the types of questions outlined above. If you are interested see #opportunities for more info.
+**Interested in PhD, Masters or Honours?** I am interested in supervising students seeking to apply quantitative methods to address the types of questions outlined above. I'm not currently accepting international MSc or PhD students. See [Join](/opportunities/) for more info.
 
 <br>
 <br>

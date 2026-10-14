@@ -13,16 +13,14 @@ We are a vibrant lab with a focus on applying the latest computational methods t
 - Size-structured population dynamics, including in vegetation and other systems; in particular understanding how competition for resources shapes species traits,
 - Estimating and modelling the potential for carbon sequestration in vegetation, particularly under future climates.
 
-Below are details on opportunities for [open positions](#open), potentials for [PhD or Msc](#HDR) and [honours](#honours) projects. Past opportunities are listed [here](/categories/opportunities/).
+Below are details on opportunities for [PhD or MSc](#HDR) and [honours](#honours) projects. Past opportunities are listed [here](/categories/opportunities/).
 
 
 ## PhD and MSc students {#HDR}
 
-I am interested in supervising students seeking to apply quantitative methods to answer fundamental and applied questions in ecology. If you are interested in joining the lab, please send a brief statement of research interests, along with a CV, to Daniel.
+**International students:** Unfortunately, I'm not currently accepting international MSc or PhD students, as opportunities for funding that cover stipends and tuition fees at UNSW are very limited.
 
-Australian & NZ students must be competitive for an [Australian Government Research Training Program (RTP) Scholarship](https://research.unsw.edu.au/domestic-research-scholarships). Successful applicants generally have an Honours I mark or existing publications.
-
-Unfortunately, due to limited pathways for stipends, I can only consider international students who have independent funding (for example, a scholarship from their home country or another external source).
+**Australian & NZ:** I am interested in supervising students seeking to apply quantitative methods to answer fundamental and applied questions in ecology. If you are an Australian or NZ student interested in joining the lab, please send a brief statement of research interests, along with a CV, to Daniel. Students must be competitive for an [Australian Government Research Training Program (RTP) Scholarship](https://research.unsw.edu.au/domestic-research-scholarships). Successful applicants generally have an Honours I mark or existing publications.
 
 ## Honours students {#honours}
 
